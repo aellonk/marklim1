@@ -1,0 +1,159 @@
+@font-face {
+    font-family: Futura;
+    src: local('Futura Medium') 
+    	url(fonts/Futura.otf)
+    	format('opentype');
+}
+
+html, body {
+	font-family: 'Futura', serif;
+	height: 100%;
+}
+
+.align-bottom {
+    bottom: 1em;
+    left: 1em;
+}
+
+.logo {
+	position: fixed;
+	display: block;
+	width: 70px;
+}
+
+.nav-top {
+	width: 100%;
+	padding-top: 2em;
+	position: absolute;
+	top: 0;
+}
+
+.nav-top ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	padding-left: 52%;
+}
+
+.nav-top ul li {
+	display: inline;
+	padding-right: 3%;
+}
+
+.nav-top ul li a {
+	text-decoration: none;
+	display: inline-block;
+	color: black;
+	z-index: 10;
+}
+
+.slideshow {
+	margin: 50px 50px 50px 100px;
+	height: 80%;
+}
+
+.image {
+    width: 480px;
+    height: auto;
+}
+
+#img0 {
+  float: left;
+}
+
+#img1 {
+	padding-right: 85px;
+  float: right;
+}
+
+#img2 {
+  float: left;
+}
+
+#img3 {
+  padding-right: 85px;
+  float: right;
+}
+
+.slick-prev {
+  position: relative;
+}
+
+
+.slick-prev:before {
+  content: '<';
+  position: absolute;
+  color: black;
+}
+
+.slick-prev:after {
+  content: '<';
+  position: absolute;
+}
+
+.slick-next {
+  position: relative;
+}
+
+.slick-next:before {
+  content: '>';
+  position: absolute;
+  color: black;
+}
+
+.slick-next:after {
+  content: '>';
+  position: absolute;
+}
+
+
+/*
+.slick-prev {
+  position: relative;
+}
+
+
+.slick-prev:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-right: 7px solid #000000;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+}
+
+.slick-prev:after {
+  content: '';
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  border-right: 4px solid #ffffff;
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+}
+
+.slick-next {
+  position: relative;
+}
+
+.slick-next:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-left: 7px solid #000000;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+}
+
+.slick-next:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 3px;
+  border-left: 4px solid #ffffff;
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+}
+*/
