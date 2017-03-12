@@ -25,9 +25,10 @@ html, body {
 
 .nav-top {
 	width: 100%;
-	padding-top: 2em;
+	padding-top: 32px;
 	position: absolute;
 	top: 0;
+  font-size: 14px;
 }
 
 .nav-top ul {
@@ -38,7 +39,7 @@ html, body {
 }
 
 .nav-top ul li {
-	display: inline;
+	display: inline-table;
 	padding-right: 3%;
 }
 
@@ -47,6 +48,15 @@ html, body {
 	display: inline-block;
 	color: black;
 	z-index: 10;
+}
+
+.info {
+  line-height: 2;
+}
+
+#contact {
+  font-size: 12px;
+  line-height: 1;
 }
 
 .slider {
@@ -539,6 +549,96 @@ outline: none !important;
   width: 566px;
 }
 
+#img52 {
+  background-image: url("../assets/images/editorial/newwebsite_038.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 85px 0px;
+  height: 85vh;
+  width: 999px;
+}
+
+#img53 {
+  background-image: url("../assets/images/editorial/white.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
+  width: 566px;
+}
+
+#img54 {
+  background-image: url("../assets/images/editorial/newwebsite_041.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 85px 0px;
+  height: 85vh;
+  width: 999px;
+}
+
+#img55 {
+  background-image: url("../assets/images/editorial/white.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
+  width: 566px;
+}
+
+#img56 {
+  background-image: url("../assets/images/editorial/newwebsite_042.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 85px 0px;
+  height: 85vh;
+  width: 999px;
+}
+
+#img57 {
+  background-image: url("../assets/images/editorial/white.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
+  width: 566px;
+}
+
+#img58 {
+  background-image: url("../assets/images/editorial/newwebsite_040.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 85px 0px;
+  height: 85vh;
+  width: 999px;
+}
+
+#img59 {
+  background-image: url("../assets/images/editorial/white.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
+  width: 566px;
+}
+
+#img60 {
+  background-image: url("../assets/images/editorial/white.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
+  width: 566px;
+
+}
+
+#img61 {
+  background-image: url("../assets/images/editorial/newwebsite_043.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
+  width: 566px;
+}
 
 .slick-prev {
   position: relative;
@@ -587,4 +687,11 @@ div.slick-current {
 div.slick-active{
    opacity: 1;
    transition: opacity .5ms ease;
+}
+
+iframe {
+  width: 1000px;
+  height: 563px;
+  margin-top: 65px;
+  margin-left: 35px;
 }
