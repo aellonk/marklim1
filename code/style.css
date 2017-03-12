@@ -7,8 +7,10 @@
 
 html, body {
 	font-family: 'Futura', serif;
-	height: 100%;
+	height: 100vh;
+  overflow: hidden;
 }
+
 
 .align-bottom {
     bottom: 1em;
@@ -47,9 +49,11 @@ html, body {
 	z-index: 10;
 }
 
-.slideshow {
+.slider {
 	margin: 50px 50px 50px 100px;
-	height: 80%;
+}
+.slick-slide {
+outline: none !important;
 }
 
 .image {
@@ -58,21 +62,35 @@ html, body {
 }
 
 #img0 {
-  float: left;
-}
+  background-image: url("../assets/images/editorial/white.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 85vh;
 
+}
 #img1 {
-	padding-right: 85px;
-  float: right;
+  background-image: url("../assets/images/editorial/newwebsite_001.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
 }
-
 #img2 {
-  float: left;
-}
+  background-image: url("../assets/images/editorial/newwebsite_002.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 130px 0px;
+  height: 85vh;
 
+
+}
 #img3 {
-  padding-right: 85px;
-  float: right;
+  background-image: url("../assets/images/editorial/newwebsite_003.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
 }
 
 .slick-prev {
@@ -106,6 +124,22 @@ html, body {
   position: absolute;
 }
 
+.slick-slide {
+   opacity: .5;
+   transition: opacity .5ms ease;
+}
+.slick-slide.opacidown {
+  opacity: 0;
+}
+
+div.slick-current {
+   opacity: 1;
+   transition: opacity .5ms ease;
+}
+
+div.slick-active{
+   opacity: 1;
+   transition: opacity .5ms ease;
 
 /*
 .slick-prev {
