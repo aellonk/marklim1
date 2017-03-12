@@ -8,6 +8,7 @@ $(document).ready(function(){
     dots: false,
     infinite: true,
     speed: 5,
+    variableWidth: true,
     cssEase: 'ease'
   });
 });
