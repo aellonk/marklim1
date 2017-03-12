@@ -12,3 +12,10 @@ $(document).ready(function(){
   });
 });
 
+  $('#prev').click(function(){
+    $(".slider").slick('slickNext');
+  });
+
+  $('#next').click(function(){
+    $(".slider").slick('slickPrev');
+  });

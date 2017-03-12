@@ -34,7 +34,7 @@ html, body {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	padding-left: 52%;
+	padding-left: 51.2%;
 }
 
 .nav-top ul li {
@@ -69,6 +69,7 @@ outline: none !important;
   height: 85vh;
 
 }
+
 #img1 {
   background-image: url("../assets/images/editorial/newwebsite_001.jpg");
   background-size: contain;
@@ -76,17 +77,49 @@ outline: none !important;
   background-position: left;
   height: 85vh;
 }
+
 #img2 {
   background-image: url("../assets/images/editorial/newwebsite_002.jpg");
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: 130px 0px;
+  background-position: 100px 0px;
   height: 85vh;
-
-
 }
+
 #img3 {
   background-image: url("../assets/images/editorial/newwebsite_003.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
+}
+
+#img4 {
+  background-image: url("../assets/images/editorial/white.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
+}
+
+#img5 {
+  background-image: url("../assets/images/editorial/newwebsite_004.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 85vh;
+}
+
+#img6 {
+  background-image: url("../assets/images/editorial/newwebsite_005.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 100px 0px;;
+  height: 85vh;
+}
+
+#img7 {
+  background-image: url("../assets/images/editorial/newwebsite_006.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
