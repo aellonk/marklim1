@@ -67,7 +67,7 @@
 .slick-next:before
 {
     font-family: 'slick';
-    font-size: 15px;
+    font-size: 18px;
     font-weight: bold;
     line-height: 1;
 
@@ -80,8 +80,8 @@
 
 .slick-prev
 {
-    left: 510px;
-    top: -26px;
+    left: 490px;
+    top: -24px;
 }
 [dir='rtl'] .slick-prev
 {
@@ -99,8 +99,8 @@
 
 .slick-next
 {
-    right: -535px;
-    top: -666px;
+    right: -515px;
+    top: -649px;
 }
 [dir='rtl'] .slick-next
 {

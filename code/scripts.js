@@ -9,7 +9,13 @@ $(document).ready(function(){
     infinite: true,
     speed: 5,
     variableWidth: true,
-    cssEase: 'ease'
+    cssEase: 'ease',
+    responsive: [
+    {
+      breakpoint: 320,
+      settings: "unslick"
+  	}
+  ]
   });
 });
 
