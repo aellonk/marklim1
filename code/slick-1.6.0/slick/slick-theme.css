@@ -11,9 +11,10 @@
     font-family: 'slick';
     font-weight: normal;
     font-style: normal;
-
+/*
     src: url('./fonts/slick.eot');
     src: url('./fonts/slick.eot?#iefix') format('embedded-opentype'), url('./fonts/slick.woff') format('woff'), url('./fonts/slick.ttf') format('truetype'), url('./fonts/slick.svg#slick') format('svg');
+*/
 }
 /* Arrows */
 .slick-prev,
@@ -30,9 +31,9 @@
     width: 20px;
     height: 20px;
     padding: 0;
-    -webkit-transform: translate(0, -50%);
-    -ms-transform: translate(0, -50%);
-    transform: translate(0, -50%);
+    -webkit-transform: translate(-150%, 25%);
+    -ms-transform: translate(-150%, 25%);
+    transform: translate(-150%, 25%);
 
     cursor: pointer;
 
@@ -72,17 +73,19 @@
     line-height: 1;
 
     opacity: .75;
-    color: white;
+    color: black;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
+/*
 .slick-prev
 {
     left: 490px;
     top: -25px;
 }
+*/
 [dir='rtl'] .slick-prev
 {
     right: -25px;
@@ -90,18 +93,19 @@
 }
 .slick-prev:before
 {
-    content: '←';
+    content: "<";
 }
 [dir='rtl'] .slick-prev:before
 {
     content: '→';
 }
 
+
 .slick-next
 {
-    right: -515px;
-    top: -635px;
+    transform: translate(-35%, 25%);
 }
+
 [dir='rtl'] .slick-next
 {
     right: auto;
@@ -109,7 +113,7 @@
 }
 .slick-next:before
 {
-    content: '→';
+    content: ">";
 }
 [dir='rtl'] .slick-next:before
 {

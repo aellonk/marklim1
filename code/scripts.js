@@ -10,6 +10,7 @@ $(document).ready(function(){
     speed: 5,
     variableWidth: true,
     cssEase: 'ease',
+    appendArrows: $('.button'),
     responsive: [
     {
       breakpoint: 320,
@@ -29,6 +30,10 @@ $(document).ready(function(){
   });
 });
 
+
+
+/*
+
   $('#prev').click(function(){
     $(".slider").slick('slickNext');
   });
@@ -36,3 +41,4 @@ $(document).ready(function(){
   $('#next').click(function(){
     $(".slider").slick('slickPrev');
   });
+*/
