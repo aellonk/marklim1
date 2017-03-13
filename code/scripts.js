@@ -2,7 +2,7 @@
 
 $(document).ready(function(){
   $('.slider').slick({
-    slidesToShow: 2,
+	slidesToShow: 2,
     slidesToScroll: 2,
     arrows: true,    
     dots: false,
@@ -13,7 +13,17 @@ $(document).ready(function(){
     responsive: [
     {
       breakpoint: 320,
-      settings: "unslick"
+      settings: {
+      	mobileFirst: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: true,    
+	    dots: false,
+	    infinite: true,
+	    speed: 5,
+	    variableWidth: true,
+	    cssEase: 'ease'
+      }
   	}
   ]
   });

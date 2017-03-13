@@ -717,7 +717,7 @@ iframe {
 /* iPhone 5 Portrait */
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
   .slick-next {
-    top: -1522px;
+    top: -1523px;
   }
 
   #img0 {
@@ -760,7 +760,9 @@ iframe {
 
 /* iPhone 6 Portrait */
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) { 
-
+    .slick-next {
+    top: -1527px;
+  }
 }
 
 /* iPhone 6 Landscape */
@@ -777,7 +779,9 @@ iframe {
 
 /* iPhone 6+ Portrait */
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) { 
-
+   .slick-next {
+    top: -1527px;
+  }
 }
 
 /* iPhone 6+ Landscape */
@@ -787,28 +791,68 @@ iframe {
 
 /* ------------------------- iPad ------------------------- */
 /* iPad Portrait and Landscape */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) and (-webkit-min-device-pixel-ratio: 1) {
 
 }
 
 /* iPad Portrait */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+   .slick-next {
+    top: -1155px;
+    left: 250px;
+  }
+
+  .slick-prev {
+    left: 225px;
+    top: -25px;
+}
+
+   .nav-top ul {
+    padding-left: 395px;
+  }
+
+  #img0 {
+  display: none;
+  }
 
 }
 
 /* iPad Landscape */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+@media only screen and (min-device-width: 768px) and (max-device-width: 1023px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+
+/* ------------------------- iPad Pro ------------------------- */
+/* iPad Pro Portrait and Landscape */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* iPad Pro Portrait */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+   .slick-next {
+    top: -1206px;
+  }
+
+  #img0 {
+  display: none;
+  }
+}
+
+/* iPad Pro Landscape */
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
 /* --------------------- Desktop/Laptop ------------------ */
-@media screen and (min-device-width: 1370px) and (max-device-width: 1600px) { 
+@media only screen and (min-device-width: 1370px) and (max-device-width: 1600px) { 
 
 }
 
 /* ----- X-Large Screens ------ */
 
-@media screen and (min-device-width: 1601px) and (-webkit-min-device-pixel-ratio: 1) { 
+@media only screen and (min-device-width: 1601px) and (-webkit-min-device-pixel-ratio: 1) { 
   
 .nav-top ul {
   padding-left: 900px;

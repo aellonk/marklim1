@@ -81,7 +81,7 @@
 .slick-prev
 {
     left: 490px;
-    top: -24px;
+    top: -25px;
 }
 [dir='rtl'] .slick-prev
 {
@@ -100,7 +100,7 @@
 .slick-next
 {
     right: -515px;
-    top: -649px;
+    top: -635px;
 }
 [dir='rtl'] .slick-next
 {
