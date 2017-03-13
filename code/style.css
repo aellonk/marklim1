@@ -5,12 +5,6 @@
     	format('opentype');
 }
 
-@font-face {
-    font-family: fontAwesome;
-    src: url(font-awesome-4.7.0/fonts/FontAwesome.otf)
-    format('opentype');
-}
-
 html, body {
 	font-family: 'Futura', serif;
 	height: 100vh;
@@ -51,7 +45,7 @@ a {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	padding-left: 665px;
+	padding-left: 640px;
 }
 
 .nav-top ul li {
@@ -76,7 +70,7 @@ a {
 }
 
 .slider {
-	margin: 50px 50px 50px 100px;
+	margin: 75px 50px 50px 100px;
 }
 .slick-slide {
 outline: none !important;
@@ -712,7 +706,6 @@ div.slick-active{
 iframe {
   width: 1000px;
   height: 563px;
-  margin-top: 27px;
   margin-left: 35px;
   display: block;
 }
