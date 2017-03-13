@@ -8,6 +8,7 @@ $(document).ready(function(){
     dots: false,
     infinite: true,
     speed: 5,
-    cssEase: 'ease'
+    cssEase: 'ease',
+    appendArrows: $('.button')
   });
 });
