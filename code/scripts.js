@@ -2,7 +2,8 @@
 
 $(document).ready(function(){
   $('.slider').slick({
-	slidesToShow: 2,
+    mobileFirst: true,
+	  slidesToShow: 2,
     slidesToScroll: 2,
     arrows: true,    
     dots: false,
@@ -12,24 +13,23 @@ $(document).ready(function(){
     cssEase: 'ease',
     appendArrows: $('.button'),
     responsive: [
+     {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
     {
       breakpoint: 320,
       settings: {
-      	mobileFirst: true,
         slidesToShow: 1,
-        slidesToScroll: 1,
-        arrows: true,    
-	    dots: false,
-	    infinite: true,
-	    speed: 5,
-	    variableWidth: true,
-	    cssEase: 'ease'
+        slidesToScroll: 1
       }
   	}
   ]
   });
 });
-
 
 
 /*

@@ -686,7 +686,6 @@ outline: none !important;
 */
 
 .slick-slide {
-   opacity: .5;
    transition: opacity .5ms ease;
 }
 .slick-slide.opacidown {
@@ -724,6 +723,10 @@ iframe {
     font-size: 23px;
   }
 
+  .nav-top ul {
+    padding-left: 14%;
+}
+
   #img0 {
   display: none;
   }
@@ -738,12 +741,17 @@ iframe {
   }
 
   #img3 {
-  background-image: url("../assets/images/editorial/newwebsite_003.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: left;
-  height: 85vh;
+  background-position: center;
   width: 780px;
+  }
+
+  iframe {
+    width: 100%;
+    margin-left: 0px; 
+}
+
+  #contact {
+    font-size: 18px;
   }
 
 }
@@ -776,7 +784,7 @@ iframe {
 
 /* iPhone 6+ Portrait and Landscape */
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) { 
-  
+
 }
 
 /* iPhone 6+ Portrait */
