@@ -2,6 +2,7 @@
 
 $(document).ready(function(){
   $('.slider').slick({
+  	mobileFirst: true,
     slidesToShow: 1,
     slidesToScroll: 1,
     arrows: true,    
@@ -9,6 +10,12 @@ $(document).ready(function(){
     infinite: true,
     speed: 5,
     cssEase: 'ease',
-    appendArrows: $('.button')
+    appendArrows: $('.button'),
+    responsive: [
+    {
+      breakpoint: 320,
+      settings: "unslick"
+  	}
+  ]
   });
 });
