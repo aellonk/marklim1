@@ -45,7 +45,7 @@ a {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	padding-left: 52%;
+	padding-left: 640px;
 }
 
 .nav-top ul li {
@@ -919,9 +919,7 @@ iframe {
 }
 
 @media only screen and (min-device-width: 875px) and (max-device-width: 1175px) and (-webkit-min-device-pixel-ratio: 1) { 
-  #img0 {
-    width: 30.5vw;
-  }
+
 }
 
 @media only screen and (min-device-width: 1370px) and (max-device-width: 1600px) { 
