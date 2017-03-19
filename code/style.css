@@ -87,7 +87,7 @@ outline: none !important;
   background-repeat: no-repeat;
   background-position: left;
   height: 85vh;
-  width: 45.5vw;
+  width: 566px;
 }
 
 _::-webkit-:not(:root:root), #img0 { margin-right:10px; width: 600px; }
@@ -353,6 +353,8 @@ _::-webkit-:not(:root:root), #img23 { width: 600px; }
   width: 566px;
 }
 
+_::-webkit-:not(:root:root), #img24 { margin-right:10px; width: 600px; }
+
 #img25 {
   background-image: url("../assets/images/editorial/newwebsite_020.jpg");
   background-size: contain;
@@ -373,6 +375,8 @@ _::-webkit-:not(:root:root), #img25 { width: 600px; }
   width: 566px;
 }
 
+_::-webkit-:not(:root:root), #img26 { margin-right:10px; width: 600px; }
+
 #img27 {
   background-image: url("../assets/images/editorial/newwebsite_022.jpg");
   background-size: contain;
@@ -392,6 +396,8 @@ _::-webkit-:not(:root:root), #img27 { width: 600px; }
   height: 85vh;
   width: 566px;
 }
+
+_::-webkit-:not(:root:root), #img28 { margin-right:10px; width: 600px; }
 
 #img29 {
   background-image: url("../assets/images/editorial/newwebsite_023.jpg");
@@ -919,7 +925,113 @@ iframe {
 }
 
 @media only screen and (min-device-width: 1370px) and (max-device-width: 1600px) { 
+ #img1 {
+    margin-right: 200px;
+ }
 
+ #img3 {
+    margin-right: 200px;
+ }
+
+ #img5 {
+    margin-right: 200px;
+ }
+
+ #img7 {
+    margin-right: 200px;
+ }
+
+ #img9 {
+    margin-right: 200px;
+ }
+
+ #img11 {
+    margin-right: 200px;
+ }
+
+ #img13 {
+    margin-right: 200px;
+ }
+
+ #img15 {
+    margin-right: 200px;
+ }
+
+ #img17 {
+    margin-right: 200px;
+ }
+
+ #img19 {
+    margin-right: 200px;
+ }
+
+ #img21 {
+    margin-right: 200px;
+ }
+
+ #img23 {
+    margin-right: 200px;
+ }
+
+ #img25 {
+    margin-right: 200px;
+ }
+
+  #img27 {
+    margin-right: 200px;
+ }
+
+  #img25 {
+    margin-right: 200px;
+ }
+
+  #img29 {
+    margin-right: 200px;
+ }
+
+  #img31 {
+    margin-right: 200px;
+ }
+
+  #img33 {
+    margin-right: 200px;
+ }
+
+  #img35 {
+    margin-right: 200px;
+ }
+
+   #img37 {
+    margin-right: 200px;
+ }
+
+  #img40 {
+    margin-right: 200px;
+ }
+
+  #img41 {
+    margin-right: 200px;
+ }
+
+  #img43 {
+    margin-right: 200px;
+ }
+
+ #img45 {
+    margin-right: 200px;
+ }
+
+  #img47 {
+    margin-right: 200px;
+ }
+
+  #img49 {
+    margin-right: 200px;
+ }
+
+   #img51 {
+    margin-right: 200px;
+ }
 }
 
 /* ----- X-Large Screens ------ */
@@ -936,7 +1048,7 @@ iframe {
 
 .slick-next {
     right: -740px;
-    top: -1103px; -854
+    top: -1103px;
   }
 
 .slick-prev {
