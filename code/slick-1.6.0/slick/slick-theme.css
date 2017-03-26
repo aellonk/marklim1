@@ -31,9 +31,9 @@
     width: 20px;
     height: 20px;
     padding: 0;
-    -webkit-transform: translate(-190%, 10%);
-    -ms-transform: translate(-190%, 10%);
-    transform: translate(-190%, 10%);
+    -webkit-transform: translate(-275%, 10%);
+    -ms-transform: translate(-275%, 10%);
+    transform: translate(-275%, 10%);
 
     cursor: pointer;
 
@@ -103,7 +103,7 @@
 
 .slick-next
 {
-    transform: translate(-75%, 10%);
+    transform: translate(-135%, 10%);
 }
 
 [dir='rtl'] .slick-next
