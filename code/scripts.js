@@ -7,7 +7,7 @@ $(document).ready(function(){
     slidesToScroll: 2,
     arrows: true,    
     dots: false,
-    infinite: true,
+    infinite: false,
     speed: 5,
     variableWidth: true,
     cssEase: 'ease',
@@ -21,11 +21,19 @@ $(document).ready(function(){
       }
     },
     {
-      breakpoint: 700,
+      breakpoint: 800,
       settings: {
         slidesToShow: 1,
         slidesToScroll: 1,
         initialSlide: 1
+      }
+    },
+    {
+      breakpoint: 700,
+      settings: {
+        initialSlide: 1,
+        slidesToShow: 1,
+        slidesToScroll: 1
       }
     },
     {
