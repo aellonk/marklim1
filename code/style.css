@@ -769,8 +769,9 @@ div.slick-active{
 iframe {
   width: 1000px;
   height: 563px;
-  margin-left: 35px;
+  margin: 0 auto;
   display: block;
+
 }
 
 /* ----------------------- media queries ---------------------- */
@@ -1261,33 +1262,33 @@ _::-webkit-:not(:root:root), #img4 { margin-right:10px; width: 600px; }
 
 @media only screen and (min-width: 1035px) and (max-width: 1085px) { 
   .nav-top ul {
-  padding-left: 540px;
+  padding-left: 497px;
   }
   
 
 
 #img0 {
-  width: 430px;
+  width: 390px;
   background-position: inherit;
-  margin-right: 30px;
+  margin-right: 35px;
 }
 
 #img1 {
-  width: 430px;
+   width: 390px;
   background-position: inherit;
-  margin-right: 30px;
+  margin-right: 35px;
 }
 
 #img2 {
-  width: 430px;
+   width: 390px;
   background-position: inherit;
-  margin-right: 30px;
+  margin-right: 35px;
 }
 
 #img3 {
-  width: 430px;
+  width: 390px;
   background-position: inherit;
-  margin-right: 30px;
+  margin-right: 35px;
 }
 
 }
