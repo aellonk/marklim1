@@ -28,13 +28,66 @@ $(document).ready(function(){
 });
 
 
-var $frame = $('vimeo');
 
-// saves the current iframe source
-var vidsrc = $frame.attr('src');
+// On before slide change
+    var iframe = document.querySelector('iframe#vimeo1');
+    var player1 = new Vimeo.Player(iframe);
+$('.slider').on('beforeChange', function(event, slick, currentSlide, nextSlide)
+{
+  if ( currentSlide == 0 ) 
+  {
+    player1.pause();
+  }
+});
 
-// sets the source to nothing, stopping the video
-$frame.attr('src',''); 
+    var iframe = document.querySelector('iframe#vimeo2');
+    var player2 = new Vimeo.Player(iframe);
+$('.slider').on('beforeChange', function(event, slick, currentSlide, nextSlide)
+{
+  if ( currentSlide == 1 ) 
+  {
+    player2.pause();
+  }
+});
 
-// sets it back to the correct link so that it reloads immediately on the next window open
-$frame.attr('src', vidsrc);
+    var iframe = document.querySelector('iframe#vimeo3');
+    var player3 = new Vimeo.Player(iframe);
+$('.slider').on('beforeChange', function(event, slick, currentSlide, nextSlide)
+{
+  if ( currentSlide == 2 ) 
+  {
+    player3.pause();
+  }
+});
+
+    var iframe = document.querySelector('iframe#vimeo4');
+    var player4 = new Vimeo.Player(iframe);
+$('.slider').on('beforeChange', function(event, slick, currentSlide, nextSlide)
+{
+  if ( currentSlide == 3 ) 
+  {
+    player4.pause();
+  }
+});
+
+    var iframe = document.querySelector('iframe#vimeo5');
+    var player5 = new Vimeo.Player(iframe);
+$('.slider').on('beforeChange', function(event, slick, currentSlide, nextSlide)
+{
+  if ( currentSlide == 4 ) 
+  {
+    player5.pause();
+  }
+});
+
+
+    var iframe = document.querySelector('iframe#vimeo6');
+    var player6 = new Vimeo.Player(iframe);
+$('.slider').on('beforeChange', function(event, slick, currentSlide, nextSlide)
+{
+  if ( currentSlide == 5) 
+  {
+    player6.pause();
+  }
+});
+
