@@ -129,6 +129,10 @@ outline: none !important;
   width: 566px;
 }
 
+.arrow {
+  display: none;
+}
+
 .slick-slide {
    transition: opacity .5ms ease;
 }
@@ -151,5 +155,4 @@ iframe {
   height: 563px;
   margin: 0 auto;
   display: block;
-
 }
