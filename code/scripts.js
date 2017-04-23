@@ -16,6 +16,9 @@ $(document).ready(function(){
 });
 
 
+
+
+
 /*
 
   $('#prev').click(function(){
@@ -56,7 +59,7 @@ $(document).ready(function(){
       breakpoint: 320,
       settings: {
         slidesToShow: 1,
-        slidesToScroll: 1
+        slidesToScroll: 1 
       }
     }
   ]
