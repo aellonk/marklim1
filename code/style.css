@@ -28,6 +28,22 @@ html, body {
   -webkit-transform-origin: 0 0 0;
 }
 
+.align-bottom-video {
+    bottom: 24px;
+    left: 1em;
+}
+
+.logo-video {
+  position: fixed;
+  display: block;
+  width: 100vw;
+  font-size: 35px;
+  transform: translate(0px, 0em) rotate(-90deg);
+  transform-origin: 0 0 0;
+  -webkit-transform: translate(0px, 0em) rotate(-90deg);
+  -webkit-transform-origin: 0 0 0;
+}
+
 a {
   color: #000000;
   text-decoration: none;
@@ -160,15 +176,23 @@ iframe {
 
 
 /* ----------------------- media queries ---------------------- */
-
+@media only screen and (min-height: 750px) { 
+  .align-bottom-video {
+    bottom: 1.75em;
+  } 
+}
 
 @media only screen and (min-height: 780px) { 
   .nav-top ul {
     padding-left: 48.3%;
   }  
+    .align-bottom-video {
+    bottom: 2.6em;
+  } 
+
   .slider {
   width: 1019px;
-}
+  }
 
   #img1 {
     border-left: 20px solid white;
@@ -185,72 +209,109 @@ iframe {
 .align-bottom {
     bottom: 0em;
 }
+
+  .align-bottom-video {
+    bottom: 3.25em;
+  }
 }
 
 @media only screen and (min-height: 850px) { 
 .align-bottom {
     bottom: 0.75em;
 }
+ .align-bottom-video {
+    bottom: 4.5em;
+  }
 }
 
 @media only screen and (min-height: 900px) { 
 .align-bottom {
     bottom: 1.5em;
 }
+.align-bottom-video {
+    bottom: 5.75em;
+  }
 }
 
 @media only screen and (min-height: 950px) { 
 .align-bottom {
     bottom: 2.25em;
 }
+.align-bottom-video {
+    bottom: 7em;
+  }
 }
 
 @media only screen and (min-height: 1000px) { 
 .align-bottom {
     bottom: 3em;
 }
+.align-bottom-video {
+    bottom: 8.25em;
+  }
 }
 
 @media only screen and (min-height: 1050px) { 
 .align-bottom {
     bottom: 3.75em;
 }
+.align-bottom-video {
+    bottom: 9.5em;
+  }
 }
 
 @media only screen and (min-height: 1100px) { 
 .align-bottom {
     bottom: 4.5em;
 }
+.align-bottom-video {
+    bottom: 10.75em;
+  }
 }
 
 @media only screen and (min-height: 1150px) { 
 .align-bottom {
     bottom: 5.25em;
 }
+.align-bottom-video {
+    bottom: 12em;
+  }
 }
 
 @media only screen and (min-height: 1200px) { 
 .align-bottom {
     bottom: 6em;
 }
+.align-bottom-video {
+    bottom: 13.25em;
+  }
 }
 
 @media only screen and (min-height: 1250px) { 
 .align-bottom {
     bottom: 6.75em;
 }
+.align-bottom-video {
+    bottom: 14.5em;
+  }
 }
 
 @media only screen and (min-height: 1300px) { 
 .align-bottom {
     bottom: 7.5em;
 }
+.align-bottom-video {
+    bottom: 15.75em;
+  }
 }
 
 @media only screen and (min-height: 1350) { 
 .align-bottom {
     bottom: 8.25em;
 }
+.align-bottom-video {
+    bottom: 17em;
+  }
 }
 
 @media only screen and (min-height: 1400px) { 
