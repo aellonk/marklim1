@@ -187,31 +187,31 @@ iframe {
 
 @media screen and (min-width: 1200px) and (max-width: 1299px) { 
   .align-bottom {
-    left: 3%;
+    left: 6%;
   }
 }
 
 @media screen and (min-width: 1400px) and (max-width: 1499px) { 
   .align-bottom {
-    left: 9%;
+    left: 10%;
   }
 }
 
 @media screen and (min-width: 1500px) and (max-width: 1599px) { 
   .align-bottom {
-    left: 11%;
+    left: 12%;
   }
 }
 
 @media screen and (min-width: 1600px) and (max-width: 1699px) { 
   .align-bottom {
-    left: 13%;
+    left: 14%;
   }
 }
 
 @media screen and (min-width: 1700px) and (max-width: 1799px) { 
   .align-bottom {
-    left: 15%;
+    left: 16%;
   }
 }
 
