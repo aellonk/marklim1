@@ -1,9 +1,12 @@
 @font-face {
-    font-family: Futura;
+    font-family: 'Futura';
     src: local('Futura Medium') 
-      url(fonts/Futura.otf)
-      format('opentype');
+        local('Futura-Medium')
+        local('Futura_Medium') 
+        url('../fonts/Futura_Medium.otf')
+        format('opentype');
 }
+
 
 html, body {
   font-family: 'Futura', serif;
