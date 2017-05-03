@@ -291,24 +291,6 @@ outline: none !important;
 }
 
 #img22 {
-  background-image: url("../assets/images/editorial/newordered_023.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: left;
-  height: 85vh;
-  width: 485px;
-}
-
-#img23 {
-  background-image: url("../assets/images/editorial/newordered_024.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: left;
-  height: 85vh;
-  width: 485px;
-}
-
-#img24 {
   background-image: url("../assets/images/editorial/newordered_025.jpg");
   background-size: contain;
   background-repeat: no-repeat;
@@ -317,7 +299,7 @@ outline: none !important;
   width: 485px;
 }
 
-#img25 {
+#img23 {
   background-image: url("../assets/images/editorial/newordered_026.jpg");
   background-size: contain;
   background-repeat: no-repeat;
@@ -326,8 +308,8 @@ outline: none !important;
   width: 485px;
 }
 
-#img26 {
-  background-image: url("../assets/images/editorial/newordered_027.jpg");
+#img24 {
+  background-image: url("../assets/images/editorial/newordered_023.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -335,14 +317,16 @@ outline: none !important;
   width: 485px;
 }
 
-#img27 {
-  background-image: url("../assets/images/editorial/newordered_028.jpg");
+#img25 {
+  background-image: url("../assets/images/editorial/newordered_024.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
   height: 85vh;
   width: 485px;
 }
+
+
 
 #img28 {
   background-image: url("../assets/images/editorial/newordered_029.jpg");
@@ -905,7 +889,7 @@ outline: none !important;
 }
 
 #img89 {
-  background-image: url("../assets/images/editorial/newordered_090.jpg");
+  background-image: url("../assets/images/editorial/newordered_091.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
