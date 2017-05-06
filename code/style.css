@@ -1357,7 +1357,7 @@ iframe {
 /* ----------- iPhone 5 and 5S ----------- */
 
 /* iPhone 5 and 5S Portrait and Landscape */
-@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px)and (-webkit-min-device-pixel-ratio: 2) {
 .main {
     padding-left: 0%;
 }
@@ -1370,52 +1370,31 @@ iframe {
 }
 
 /* iPhone 5 and 5S Portrait */
-@media only screen and (min-device-width: 320px) 
-  and (max-device-width: 568px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
+.main {
+    padding-left: 0%;
+}
+
+.nav-top ul {
+    padding-left: 45%;
+}
+
 }
 
 /* iPhone 5 and 5S Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 568px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: landscape) {
-
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+.main {
+    padding-left: 0%;
 }
 
-/* ----------- iPhone 6 ----------- */
-
-/* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2) { 
-
+.nav-top ul {
+    padding-left: 45%;
 }
-
-/* Portrait */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) { 
-
-}
-
-/* Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: landscape) { 
-
 }
 
 @media screen and (min-width: 600px) and (max-width: 699px) { 
   .align-bottom {
-    bottom: 12.5%;
+    bottom: 17.5%;
     left: 1%;
 }
   .nav-top ul {
@@ -1513,9 +1492,11 @@ iframe {
     bottom: 4.5%;
     left: 2%;
   }
+
   .nav-top ul {
     padding-left: 52%;
   } 
+
    .slider {
     width: 820px;
   }
