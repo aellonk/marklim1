@@ -1385,6 +1385,10 @@ iframe {
     left: 4%;
 }
 
+.iframe {
+  width: 900px;
+}
+
 #img0 {
   width: 460px;
   margin-right: 20px;
@@ -3525,8 +3529,19 @@ iframe {
   #img91 {
     width: 250px;
   }
-
 } 
+
+/* ----------- iPad 1 and 2 ----------- */
+/* iPad Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+  .main {
+    padding-left: 0.5%;
+}
+}
+
+
+
+
 
 @media screen and (min-width: 700px) and (max-width: 799px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
