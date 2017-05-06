@@ -1385,7 +1385,11 @@ iframe {
     left: 4%;
 }
 
-.iframe {
+.video.slider {
+  width: 900px;
+}
+
+iframe {
   width: 900px;
 }
 
@@ -1805,182 +1809,203 @@ iframe {
   width: 460px;
 }
 
-
 #img0_personal {
-  width: 412px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img1_personal {
-  width: 412px;
+  width: 401px;
 }
 
 #img2_personal {
-  width: 411px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img3_personal {
-  width: 411px;
+  width: 401px;
 }
 
 #img4_personal {
-  width: 412px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img5_personal {
-  width: 412px;
+  width: 401px;
 }
 
 #img6_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img7_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img8_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img9_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img10_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img11_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img12_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img13_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img14_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img15_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img16_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img17_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img18_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 
 #img19_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img20_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img21_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img22_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img23_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img24_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img25_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img26_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img27_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img28_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img29_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img30_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img31_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img32_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img33_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img34_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img35_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img36_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img37_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img38_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img39_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img40_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img41_personal {
-  width: 485px;
+  width: 401px;
 }
 
 #img42_personal {
-  width: 485px;
+  width: 401px;
+  margin-right: 20px;
 }
 
 #img43_personal {
-  width: 485px;
+  width: 401px;
 }
 
 
@@ -2125,8 +2150,6 @@ iframe {
   width: 460px;
 }
 
-
-
 #img28 {
   width: 460px;
   margin-right: 20px;
@@ -2218,8 +2241,6 @@ iframe {
   margin-right: 20px;
 }
 
-
-
 #img48 {
   width: 460px;
 }
@@ -2229,11 +2250,9 @@ iframe {
   margin-right: 20px;
 }
 
-
 #img50 {
   width: 460px;
 }
-
 
 #img51 {
   width: 460px;
@@ -2422,6 +2441,8 @@ iframe {
 #img91 {
   width: 460px;
 }
+
+
 }
 
 /* ----------- iPhone 6 ----------- */
@@ -2452,6 +2473,14 @@ iframe {
 
 .align-bottom {
     left: 4%;
+}
+
+.video.slider {
+  width: 900px;
+}
+
+iframe {
+  width: 900px;
 }
 
 #img0 {
@@ -2540,7 +2569,6 @@ iframe {
   margin-right: 20px;
 }
 
-
 #img19 {
   width: 460px;
 }
@@ -2571,8 +2599,6 @@ iframe {
 #img25 {
   width: 460px;
 }
-
-
 
 #img28 {
   width: 460px;
@@ -2659,13 +2685,10 @@ iframe {
   width: 940px;
 }
 
-
 #img47 {
   width: 460px;
   margin-right: 20px;
 }
-
-
 
 #img48 {
   width: 460px;
@@ -2676,11 +2699,9 @@ iframe {
   margin-right: 20px;
 }
 
-
 #img50 {
   width: 460px;
 }
-
 
 #img51 {
   width: 460px;
@@ -2749,7 +2770,6 @@ iframe {
   width: 940px;
 }
 
-
 #img66 {
   width: 940px;
 }
@@ -2758,28 +2778,23 @@ iframe {
   width: 940px;
 }
 
-
 #img68 {
   width: 940px;
 }
-
 
 #img69 {
   width: 460px;
   margin-right: 20px;
 }
 
-
 #img70 {
   width: 460px;
 }
-
 
 #img71 {
   width: 460px;
   margin-right: 20px;
 }
-
 
 #img72 {
   width: 460px;
@@ -2871,6 +2886,204 @@ iframe {
 }
 
 
+#img0_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img1_personal {
+  width: 401px;
+}
+
+#img2_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img3_personal {
+  width: 401px;
+}
+
+#img4_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img5_personal {
+  width: 401px;
+}
+
+#img6_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img7_personal {
+  width: 401px;
+}
+
+#img8_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img9_personal {
+  width: 401px;
+}
+
+#img10_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img11_personal {
+  width: 401px;
+}
+
+#img12_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img13_personal {
+  width: 401px;
+}
+
+#img14_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img15_personal {
+  width: 401px;
+}
+
+#img16_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img17_personal {
+  width: 401px;
+}
+
+#img18_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+
+#img19_personal {
+  width: 401px;
+}
+
+#img20_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img21_personal {
+  width: 401px;
+}
+
+#img22_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img23_personal {
+  width: 401px;
+}
+
+#img24_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img25_personal {
+  width: 401px;
+}
+
+#img26_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img27_personal {
+  width: 401px;
+}
+
+#img28_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img29_personal {
+  width: 401px;
+}
+
+#img30_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img31_personal {
+  width: 401px;
+}
+
+#img32_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img33_personal {
+  width: 401px;
+}
+
+#img34_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img35_personal {
+  width: 401px;
+}
+
+#img36_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img37_personal {
+  width: 401px;
+}
+
+#img38_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img39_personal {
+  width: 401px;
+}
+
+#img40_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img41_personal {
+  width: 401px;
+}
+
+#img42_personal {
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img43_personal {
+  width: 401px;
+}
 
 }
 
