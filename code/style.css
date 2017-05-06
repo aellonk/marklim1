@@ -1806,6 +1806,183 @@ iframe {
 }
 
 
+#img0_personal {
+  width: 412px;
+}
+
+#img1_personal {
+  width: 412px;
+}
+
+#img2_personal {
+  width: 411px;
+}
+
+#img3_personal {
+  width: 411px;
+}
+
+#img4_personal {
+  width: 412px;
+}
+
+#img5_personal {
+  width: 412px;
+}
+
+#img6_personal {
+  width: 485px;
+}
+
+#img7_personal {
+  width: 485px;
+}
+
+#img8_personal {
+  width: 485px;
+}
+
+#img9_personal {
+  width: 485px;
+}
+
+#img10_personal {
+  width: 485px;
+}
+
+#img11_personal {
+  width: 485px;
+}
+
+#img12_personal {
+  width: 485px;
+}
+
+#img13_personal {
+  width: 485px;
+}
+
+#img14_personal {
+  width: 485px;
+}
+
+#img15_personal {
+  width: 485px;
+}
+
+#img16_personal {
+  width: 485px;
+}
+
+#img17_personal {
+  width: 485px;
+}
+
+#img18_personal {
+  width: 485px;
+}
+
+
+#img19_personal {
+  width: 485px;
+}
+
+#img20_personal {
+  width: 485px;
+}
+
+#img21_personal {
+  width: 485px;
+}
+
+#img22_personal {
+  width: 485px;
+}
+
+#img23_personal {
+  width: 485px;
+}
+
+#img24_personal {
+  width: 485px;
+}
+
+#img25_personal {
+  width: 485px;
+}
+
+#img26_personal {
+  width: 485px;
+}
+
+#img27_personal {
+  width: 485px;
+}
+
+#img28_personal {
+  width: 485px;
+}
+
+#img29_personal {
+  width: 485px;
+}
+
+#img30_personal {
+  width: 485px;
+}
+
+#img31_personal {
+  width: 485px;
+}
+
+#img32_personal {
+  width: 485px;
+}
+
+#img33_personal {
+  width: 485px;
+}
+
+#img34_personal {
+  width: 485px;
+}
+
+#img35_personal {
+  width: 485px;
+}
+
+#img36_personal {
+  width: 485px;
+}
+
+#img37_personal {
+  width: 485px;
+}
+
+#img38_personal {
+  width: 485px;
+}
+
+#img39_personal {
+  width: 485px;
+}
+
+#img40_personal {
+  width: 485px;
+}
+
+#img41_personal {
+  width: 485px;
+}
+
+#img42_personal {
+  width: 485px;
+}
+
+#img43_personal {
+  width: 485px;
+}
+
 
 }
 
@@ -1825,6 +2002,11 @@ iframe {
 
 .align-bottom {
     left: 1%;
+}
+
+iframe {
+    width: 750px;
+    height: 422px;
 }
 
 #img0 {
@@ -2710,6 +2892,11 @@ iframe {
     left: 1%;
 }
 
+iframe {
+    width: 750px;
+    height: 422px;
+}
+
 #img0 {
   width: 400px;
 }
@@ -3536,6 +3723,23 @@ iframe {
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
   .main {
     padding-left: 0.5%;
+}
+
+  iframe {
+    width: 750px;
+    height: 422px;
+}
+}
+
+/* iPad Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+  .main {
+    padding-left: 0.5%;
+}
+
+  iframe {
+    width: 750px;
+    height: 422px;
 }
 }
 
@@ -6086,7 +6290,7 @@ iframe {
 
 }
 
-@media screen and (min-device-width: 1600px) and (max-device-width: 1699px) and (-webkit-min-device-pixel-ratio: 1)  { 
+@media screen and (min-width: 1600px) and (max-width: 1699px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
     bottom: 12.5%;
     left: 11%;
@@ -6511,7 +6715,7 @@ iframe {
   }
 }
 
-@media screen and (min-device-width: 1700px) and (max-device-width: 1799px) and (-webkit-min-device-pixel-ratio: 1)  { 
+@media screen and (min-width: 1700px) and (max-width: 1799px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
     bottom: 15.5%;
     left: 12%;
