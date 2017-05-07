@@ -4131,229 +4131,7 @@ iframe {
 }
 } 
 
-/* ----------- iPad 1 and 2 ----------- */
-/* iPad Portrait */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
-  .main {
-    padding-left: 0.5%;
-}
 
-  iframe {
-    width: 750px;
-    height: 422px;
-}
-
-#img0_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img1_personal {
-  width: 401px;
-}
-
-#img2_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img3_personal {
-  width: 401px;
-}
-
-#img4_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img5_personal {
-  width: 401px;
-}
-
-#img6_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img7_personal {
-  width: 401px;
-}
-
-#img8_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img9_personal {
-  width: 401px;
-}
-
-#img10_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img11_personal {
-  width: 401px;
-}
-
-#img12_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img13_personal {
-  width: 401px;
-}
-
-#img14_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img15_personal {
-  width: 401px;
-}
-
-#img16_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img17_personal {
-  width: 401px;
-}
-
-#img18_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-
-#img19_personal {
-  width: 401px;
-}
-
-#img20_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img21_personal {
-  width: 401px;
-}
-
-#img22_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img23_personal {
-  width: 401px;
-}
-
-#img24_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img25_personal {
-  width: 401px;
-}
-
-#img26_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img27_personal {
-  width: 401px;
-}
-
-#img28_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img29_personal {
-  width: 401px;
-}
-
-#img30_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img31_personal {
-  width: 401px;
-}
-
-#img32_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img33_personal {
-  width: 401px;
-}
-
-#img34_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img35_personal {
-  width: 401px;
-}
-
-#img36_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img37_personal {
-  width: 401px;
-}
-
-#img38_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img39_personal {
-  width: 401px;
-}
-
-#img40_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img41_personal {
-  width: 401px;
-}
-
-#img42_personal {
-  width: 401px;
-  margin-right: 20px;
-}
-
-#img43_personal {
-  width: 401px;
-}
-}
-
-/* iPad Landscape */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
-  .main {
-    padding-left: 0.5%;
-}
-
-  iframe {
-    width: 750px;
-    height: 422px;
-}
-}
 
 
 
@@ -4371,6 +4149,11 @@ iframe {
 
    .slider {
     width: 620px;
+  }
+
+  iframe {
+    width: 750px;
+    height: 422px;
   }
   
   #img0 {
@@ -4997,6 +4780,11 @@ iframe {
    .slider {
     width: 720px;
   }
+
+  iframe {
+    width: 750px;
+    height: 422px;
+  }
   
   #img0 {
     width: 350px;
@@ -5619,7 +5407,12 @@ iframe {
   } 
 
    .slider {
-    width: 820px;
+    width: 819px;
+  }
+
+  iframe {
+    width: 750px;
+    height: 422px;
   }
   
   #img0 {
@@ -6243,6 +6036,11 @@ iframe {
     width: 820px;
   }
 
+  iframe {
+    width: 750px;
+    height: 422px;
+  }
+
   #img0 {
     width: 400px;
     margin-right: 20px;
@@ -6861,6 +6659,11 @@ iframe {
   } 
    .slider {
     width: 820px;
+  }
+
+  iframe {
+    width: 750px;
+    height: 422px;
   }
   
   #img0 {
@@ -12256,5 +12059,784 @@ iframe {
 
 #img43_personal {
   width: 800px;
+}
+}
+
+
+/* ----------- iPad 1 and 2 ----------- */
+/* iPad Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+  .main {
+    padding-left: 0.5%;
+}
+
+.slider {
+  width: 819px;
+}
+
+.nav-top ul {
+    padding-left: 48%;
+}
+
+  iframe {
+    width: 750px;
+    height: 422px;
+}
+
+#img0 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img1 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img2 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img3 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img4 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img5 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img6 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img7 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img8 {
+    height: 65vh;
+    width: 379px;
+    margin-right: 20px;
+  }
+
+  #img9 {
+    height: 65vh;
+    width: 425px;
+  }
+
+  #img10 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img11 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img12 {
+    height: 65vh;
+    width: 379px;
+    margin-right: 20px;
+  }
+
+  #img13 {
+    height: 65vh;
+    width: 425px;
+  }
+
+  #img14 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img15 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img16 {
+    height: 65vh;
+    width: 379px;
+    margin-right: 20px;
+  }
+
+  #img17 {
+    height: 65vh;
+    width: 425px;
+  }
+
+  #img18 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img19 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img20 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img21 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img22 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img23 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img24 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img25 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img28 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img29 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img30 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img31 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img32 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img33 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img34 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img35 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img36 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img37 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img38 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img39 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img40 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img41 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img42 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img43 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img44 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img45 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img46 {
+    height: 65vh;
+    width: 820px;
+  }
+
+  #img47 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img48 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img49 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img50 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img51 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img52 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img53 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img54 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img55 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img56 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img57 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img58 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img59 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img60 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img61 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img62 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img63 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img64 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img65 {
+    height: 65vh;
+    width: 820px;
+  }
+
+
+  #img66 {
+    height: 65vh;
+    width: 820px;
+  }
+
+  #img67 {
+    height: 65vh;
+    width: 820px;
+  }
+
+
+  #img68 {
+    height: 65vh;
+    width: 820px;
+  }
+
+
+  #img69 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img70 {
+    height: 65vh;
+    width: 400px;
+  }
+
+
+  #img71 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+
+  #img72 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img73 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img74 {
+    height: 65vh;
+   width: 400px;
+  }
+
+  #img75 {
+    height: 65vh;
+    width: 820px;
+  }
+
+  #img76 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img77 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img78 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img79 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img80 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img81 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img82 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img83 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img84 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img85 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img86 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img87 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img88 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img89 {
+    height: 65vh;
+    width: 400px;
+  }
+
+  #img90 {
+    height: 65vh;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img91 {
+    height: 65vh;
+    width: 400px;
+  }
+
+#img0_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img1_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img2_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img3_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img4_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img5_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img6_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img7_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img8_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img9_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img10_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img11_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img12_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img13_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img14_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img15_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img16_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img17_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img18_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+
+#img19_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img20_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img21_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img22_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img23_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img24_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img25_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img26_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img27_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img28_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img29_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img30_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img31_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img32_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img33_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img34_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img35_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img36_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img37_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img38_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img39_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img40_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img41_personal {
+  height: 65vh;
+  width: 401px;
+}
+
+#img42_personal {
+  height: 65vh;
+  width: 401px;
+  margin-right: 20px;
+}
+
+#img43_personal {
+  height: 65vh;
+  width: 401px;
+}
+}
+
+/* iPad Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+  .main {
+    padding-left: 0.5%;
+}
+
+.align-bottom {
+    bottom: 8.5%;
+    left: 4%;
+}
+
+  iframe {
+    width: 750px;
+    height: 422px;
 }
 }
