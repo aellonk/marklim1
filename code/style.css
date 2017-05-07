@@ -1000,6 +1000,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img1_personal {
@@ -1018,6 +1019,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 
@@ -1038,6 +1040,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img5_personal {
@@ -1056,6 +1059,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img7_personal {
@@ -1074,6 +1078,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img9_personal {
@@ -1092,6 +1097,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img11_personal {
@@ -1110,6 +1116,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img13_personal {
@@ -1128,6 +1135,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img15_personal {
@@ -1146,6 +1154,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img17_personal {
@@ -1164,6 +1173,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 
@@ -1183,6 +1193,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img21_personal {
@@ -1201,6 +1212,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img23_personal {
@@ -1219,6 +1231,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img25_personal {
@@ -1237,6 +1250,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img27_personal {
@@ -1255,6 +1269,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img29_personal {
@@ -1273,6 +1288,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img31_personal {
@@ -1291,6 +1307,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img33_personal {
@@ -1309,6 +1326,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img35_personal {
@@ -1327,6 +1345,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img37_personal {
@@ -1345,6 +1364,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img39_personal {
@@ -1363,6 +1383,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img41_personal {
@@ -1381,6 +1402,7 @@ iframe {
   background-position: left;
   height: 85vh;
   width: 485px;
+  margin-right: 20px;
 }
 
 #img43_personal {
@@ -2505,7 +2527,7 @@ span a.number {
 
 
 #img0_personal {
-  width: 250px;
+  width: 300px;
   margin-right: 20px;
 }
 
@@ -4634,7 +4656,7 @@ span a.number {
     padding-left: 52%;
   } 
 
-  
+
   .nav-top ul li {
     display: initial;
 }
