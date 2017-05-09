@@ -17,7 +17,7 @@ html, body {
 
 .align-bottom {
     bottom: 0.5%;
-    left: 11%;
+    left: 9%;
 }
 
 .logo {
@@ -78,7 +78,7 @@ a {
 
 .slider {
   margin: 0 auto;
-  width: 970px;
+  width: 989px;
   margin-top: 75px;
   margin-bottom: 50px;
 }
@@ -3370,7 +3370,7 @@ span a.number {
 
 @media screen and (min-width: 900px) and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 4.5%;
+    bottom: 6.5%;
     left: 2%;
   }
 
@@ -4009,8 +4009,8 @@ span a.number {
 
 @media screen and (min-width: 1000px) and (max-width: 1099px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 4.5%;
-    left: 7%;
+    bottom: 6.5%;
+    left: 6%;
   }
 
   .nav-top ul {
@@ -5282,7 +5282,7 @@ span a.number {
 
 @media screen and (min-width: 1200px) and (max-width: 1299px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
-    left: 6%;
+    left: 10%;
   }
   .nav-top ul {
     padding-left: 51.8%;
@@ -5699,7 +5699,7 @@ span a.number {
 
 @media screen and (min-width: 1400px) and (max-width: 1499px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    left: 10%;
+    left: 12%;
   }
 }
 
@@ -7588,6 +7588,10 @@ span a.number {
     bottom: 6.5%;
     left: 7%;
   }
+_::-webkit-:host:not(:root:root), .align-bottom { left: 22% } 
+
+
+
 
   .nav-top {
     font-size: 20px;
@@ -10083,6 +10087,10 @@ span a.number {
 
 .slider {
   width: 819px;
+}
+
+.slick-slide {
+    outline: 1px solid white;
 }
 
 .nav-top ul {
