@@ -9678,6 +9678,10 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
  .slider {
     width: 1599px;
   }
+
+  .margin {
+    margin-top: 20px;
+  }
   
   #img0 {
     width: 800px;
