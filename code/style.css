@@ -9657,7 +9657,7 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
 }
 }
 
-@media screen and (min-device-width: 2400px)  {
+@media screen and (min-width: 2400px)  {
   .align-bottom {
     bottom: 7.5%;
     left: 16%;
