@@ -83,6 +83,7 @@ a {
   width: 820px;
   margin-top: 100px;
   margin-bottom: 50px;
+  border: 2px solid white;
 }
 
 .video.slider {
