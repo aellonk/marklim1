@@ -11582,10 +11582,7 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
 
 /* iPhone 5 and 5S Portrait and Landscape */
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
-  .slick-track
-{
-    left: -1px;
-}
+
 
 }
 
