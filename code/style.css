@@ -80,7 +80,7 @@ a {
 
 .slider {
   margin: 0 auto;
-  width: 819px;
+  width: 820px;
   margin-top: 100px;
   margin-bottom: 50px;
 }
@@ -3396,7 +3396,7 @@ span a.number {
 }
 
    .slider {
-    width: 819px;
+    width: 820px;
   }
 
   iframe {
@@ -12239,7 +12239,10 @@ height: 400px;
 
 /* iPhone 6 Portrait and Landscape */
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) { 
-
+  .slick-track
+{
+    left: -1px;
+}
 
 }
 
