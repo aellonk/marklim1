@@ -11632,7 +11632,7 @@ iframe {
   width: 900px;
 }
 
-_::-webkit-:host:not(:root:root), .slider { margin-top: 10px; }
+_::-webkit-:host:not(:root:root), .slider { margin-top: 30px; }
 
 
 }
