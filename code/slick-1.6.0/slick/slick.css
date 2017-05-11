@@ -52,7 +52,7 @@
 {
     position: relative;
     top: 0;
-    left: -1px;
+    left: 0;
 
     display: block;
 }
