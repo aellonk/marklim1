@@ -20,6 +20,8 @@ html, body {
     left: 16%;
 }
 
+_::-webkit-:host:not(:root:root), .align-bottom { bottom: 16%; } 
+
 .logo {
   position: fixed;
   display: block;
@@ -1452,7 +1454,7 @@ iframe {
 
 @media screen and (min-width: 600px) and (max-width: 699px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 17.5%;
+    bottom: 22.5%;
     left: 1%;
 }
   .nav-top ul {
@@ -2086,7 +2088,7 @@ span a.number {
 
 @media screen and (min-width: 700px) and (max-width: 799px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 12.5%;
+    bottom: 17.5%;
     left: 1%;
   }
 
@@ -2731,7 +2733,7 @@ span a.number {
 
 @media screen and (min-width: 800px) and (max-width: 899px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 8.5%;
+    bottom: 13.5%;
     left: 1%;
 }
   .nav-top ul {
@@ -3372,7 +3374,7 @@ span a.number {
 
 @media screen and (min-width: 900px) and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 6.5%;
+    bottom: 8.5%;
     left: 2%;
   }
 
@@ -4011,7 +4013,7 @@ span a.number {
 
 @media screen and (min-width: 1000px) and (max-width: 1099px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 6.5%;
+    bottom: 9.5%;
     left: 6%;
   }
 
@@ -4651,8 +4653,8 @@ span a.number {
 
 @media screen and (min-width: 1100px) and (max-width: 1199px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
-    bottom: 6.5%;
-  }
+    left: 8%;
+}
 
   .nav-top ul {
     padding-left: 52%;
@@ -5284,6 +5286,8 @@ span a.number {
 .align-bottom {
     left: 13%;
   }
+
+_::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; } 
 
 }
 
@@ -12232,9 +12236,7 @@ height: 400px;
 /* iPhone 6 Portrait and Landscape */
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) { 
 
-.slick-track {
-    left: -1px;
-}
+
 }
 
 /* iPhone 6 Portrait */
