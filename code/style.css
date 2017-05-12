@@ -12,6 +12,7 @@ html, body {
   font-family: 'Futura', serif;
   height: 100vh;
   overflow: hidden;
+    position: static;
 }
 
 
@@ -67,7 +68,6 @@ a {
 
 .main {
   padding-left: 7%;
-  position: static;
 }
 
 .info {
