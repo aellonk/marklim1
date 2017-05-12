@@ -16,8 +16,8 @@ html, body {
 
 
 .align-bottom {
-    bottom: -1%;
-    left: 13%;
+    bottom: 0%;
+    left: 11%;
 }
 
 _::-webkit-:host:not(:root:root), .align-bottom { bottom: 10%; } 
@@ -4968,7 +4968,7 @@ span a.number {
 
 @media screen and (min-width: 1100px) and (max-width: 1199px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
-    bottom: 3.5%;
+    bottom: 4.5%;
     left: 8%;
 }
 
@@ -5645,7 +5645,7 @@ span a.number {
 
 @media screen and (min-width: 1200px) and (max-width: 1299px) and (-webkit-min-device-pixel-ratio: 1) { 
 .align-bottom {
-    left: 10%;
+    left: 8%;
   }
 
 _::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; } 
@@ -12358,6 +12358,10 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
     padding-left: 0.5%;
 }
 
+.slider {
+  margin-top: 300px;
+}
+
 .nav-top ul {
     padding-left: 48%;
 }
@@ -12408,6 +12412,9 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
     padding-left: 0.5%;
 }
 
+.slider {
+  margin-top: 500px;
+}
 
 .nav-top {
   font-size: 25px;
@@ -13110,6 +13117,10 @@ height: 400px;
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) { 
 .main {
     padding-left: 0.5%;
+}
+
+.slider {
+  margin-top: 500px;
 }
 
 .nav-top {
