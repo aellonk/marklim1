@@ -67,6 +67,7 @@ a {
 
 .main {
   padding-left: 7%;
+  position: static;
 }
 
 .info {
