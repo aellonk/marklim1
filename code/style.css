@@ -17,7 +17,7 @@ html, body {
 
 .align-bottom {
     bottom: -1%;
-    left: 10%;
+    left: 13%;
 }
 
 _::-webkit-:host:not(:root:root), .align-bottom { bottom: 10%; } 
