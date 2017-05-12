@@ -50,7 +50,7 @@ a {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  padding-left: 51.8%;
+  padding-left: 52%;
 }
 
 .nav-top ul li {
@@ -985,6 +985,102 @@ outline: none !important;
 
 #img91 {
   background-image: url("../assets/images/editorial/newordered_092.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 355.5px;
+  margin-right: 64.5px;
+}
+
+#img92 {
+  background-image: url("../assets/images/editorial/newordered_093.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 355.5px;
+  margin-right: 64.5px;
+}
+
+#img93 {
+  background-image: url("../assets/images/editorial/newordered_094.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 400px;
+}
+
+#img94 {
+  background-image: url("../assets/images/editorial/newordered_095.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img95 {
+  background-image: url("../assets/images/editorial/newordered_096.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 400px;
+}
+
+#img96 {
+  background-image: url("../assets/images/editorial/newordered_097.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 355.5px;
+  margin-right: 64.5px;
+}
+
+#img97 {
+  background-image: url("../assets/images/editorial/newordered_098.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 400px;
+}
+
+#img98 {
+  background-image: url("../assets/images/editorial/newordered_099.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img99 {
+  background-image: url("../assets/images/editorial/newordered_100.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 400px;
+}
+
+#img100 {
+  background-image: url("../assets/images/editorial/newordered_101.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 533px;
+  width: 400px;
+  margin-right: 64.5px;
+}
+
+#img101 {
+  background-image: url("../assets/images/editorial/newordered_102.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;

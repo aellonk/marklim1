@@ -62,7 +62,7 @@
                 fade: false,
                 focusOnSelect: false,
                 infinite: true,
-                initialSlide: 0,
+                initialSlide: 97,
                 lazyLoad: 'ondemand',
                 mobileFirst: false,
                 pauseOnHover: true,
