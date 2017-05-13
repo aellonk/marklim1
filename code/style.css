@@ -1545,7 +1545,7 @@ iframe {
 /* ----------------------- media queries ---------------------- */
 
 
-@media screen and (min-width: 600px) and (max-width: 699px) and (-webkit-min-device-pixel-ratio: 1) { 
+@media screen and (min-width: 570px) and (max-width: 699px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
     bottom: 16.5%;
     left: 1%;
@@ -1566,655 +1566,797 @@ span a.number {
   padding-left: 3%;
 }
 
-   .slider {
-    width: 520px;
+  .slider {
+    width: 420px;
   }
   
   #img0 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img1 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img2 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img3 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img4 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img5 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img6 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img7 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img8 {
-    width: 222.5px;
+    height: 267px;
+    width: 200px;
     margin-right: 47.5px;
   }
 
   #img9 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img10 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img11 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img12 {
-    width: 222.5px;
+    height: 267px;
+    width: 200px;
     margin-right: 47.5px;
   }
 
   #img13 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img14 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img15 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img16 {
-    width: 222.5px;
+    height: 267px;
+    width: 200px;
     margin-right: 47.5px;
   }
 
   #img17 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img18 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img19 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img20 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img21 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img22 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img23 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img24 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img25 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img28 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img29 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img30 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img31 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img32 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img33 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img34 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img35 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img36 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img37 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img38 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img39 {
-   width: 250px;
+    height: 267px;
+   width: 200px;
   }
 
   #img40 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img41 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img42 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img43 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img44 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img45 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img46 {
-    width: 520px;
+    height: 267px;
+    width: 420px;
   }
 
   #img47 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img48 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img49 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img50 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img51 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img52 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img53 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img54 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img55 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img56 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img57 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img58 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img59 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img60 {
-   width: 250px;
+    height: 267px;
+   width: 200px;
   }
 
   #img61 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img62 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img63 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img64 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img65 {
-    width: 520px;
+    height: 267px;
+    width: 420px;
   }
 
   #img66 {
-    width: 520px;
+    height: 267px;
+    width: 420px;
   }
 
   #img67 {
-    width: 520px;
+    height: 267px;
+    width: 420px;
   }
 
   #img68 {
-    width: 520px;
+    height: 267px;
+    width: 420px;
   }
 
   #img69 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img70 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img71 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img72 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img73 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img74 {
-   width: 250px;
+    height: 267px;
+   width: 200px;
   }
 
   #img75 {
-    width: 520px;
+    height: 267px;
+    width: 420px;
   }
 
   #img76 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img77 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img78 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img79 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img80 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img81 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img82 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img83 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img84 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img85 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img86 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img87 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img88 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img89 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img90 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
     margin-right: 20px;
   }
 
   #img91 {
-    width: 250px;
+    height: 267px;
+    width: 200px;
   }
 
   #img92 {
-  width: 250px;
+    height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img93 {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img94 {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img95 {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img96 {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img97 {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img98 {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img99 {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img100 {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img101 {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
-
 #img0_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img1_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img2_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img3_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img4_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img5_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img6_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img7_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img8_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img9_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img10_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img11_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img12_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img13_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img14_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img15_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img16_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img17_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img18_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
-
 #img19_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img20_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img21_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img22_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img23_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img24_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img25_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img26_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img27_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img28_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img29_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img30_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img31_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img32_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img33_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img34_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img35_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img36_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img37_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img38_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img39_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img40_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img41_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 
 #img42_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
   margin-right: 20px;
 }
 
 #img43_personal {
-  width: 250px;
+  height: 267px;
+  width: 200px;
 }
 } 
 
@@ -2226,7 +2368,7 @@ span a.number {
 
 @media screen and (min-width: 700px) and (max-width: 799px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 12.5%;
+    bottom: 27.5%;
     left: 1%;
   }
 
@@ -2257,658 +2399,803 @@ span a.number {
   }
   
   #img0 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img1 {
+    height: 400px;
     width: 300px;
   }
 
   #img2 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img3 {
+    height: 400px;
     width: 300px;
   }
 
   #img4 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img5 {
+    height: 400px;
     width: 300px;
   }
 
   #img6 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img7 {
+    height: 400px;
     width: 300px;
   }
 
   #img8 {
+    height: 400px;
     width: 266.5px;
     margin-right: 53.5px;
   }
 
   #img9 {
+    height: 400px;
     width: 300px;
   }
 
   #img10 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img11 {
+    height: 400px;
     width: 300px;
   }
 
   #img12 {
+    height: 400px;
     width: 266.5px;
     margin-right: 53.5px;
   }
 
   #img13 {
+    height: 400px;
     width: 300px;
   }
 
   #img14 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img15 {
+    height: 400px;
     width: 300px;
   }
 
   #img16 {
+    height: 400px;
      width: 266.5px;
     margin-right: 53.5px;
   }
 
   #img17 {
+    height: 400px;
     width: 300px;
   }
 
   #img18 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
 
   #img19 {
+    height: 400px;
     width: 300px;
   }
 
   #img20 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img21 {
+    height: 400px;
     width: 300px;
   }
 
   #img22 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img23 {
+    height: 400px;
     width: 300px;
   }
 
   #img24 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img25 {
+    height: 400px;
     width: 300px;
   }
 
   #img28 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img29 {
+    height: 400px;
     width: 300px;
   }
 
   #img30 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img31 {
+    height: 400px;
     width: 300px;
   }
 
   #img32 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img33 {
+    height: 400px;
     width: 300px;
   }
 
   #img34 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img35 {
+    height: 400px;
     width: 300px;
   }
 
   #img36 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img37 {
+    height: 400px;
     width: 300px;
   }
 
   #img38 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img39 {
+    height: 400px;
    width: 300px;
   }
 
   #img40 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img41 {
+    height: 400px;
     width: 300px;
   }
 
   #img42 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img43 {
+    height: 400px;
     width: 300px;
   }
 
   #img44 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img45 {
+    height: 400px;
     width: 300px;
   }
 
   #img46 {
+    height: 400px;
     width: 620px;
   }
 
   #img47 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img48 {
+    height: 400px;
     width: 300px;
   }
 
   #img49 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
 
   #img50 {
+    height: 400px;
     width: 300px;
   }
 
 
   #img51 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img52 {
+    height: 400px;
     width: 300px;
   }
 
   #img53 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img54 {
+    height: 400px;
     width: 300px;
   }
 
   #img55 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img56 {
+    height: 400px;
     width: 300px;
   }
 
   #img57 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img58 {
+    height: 400px;
     width: 300px;
   }
 
   #img59 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img60 {
+    height: 400px;
    width: 300px;
   }
 
   #img61 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img62 {
+    height: 400px;
     width: 300px;
   }
 
   #img63 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img64 {
+    height: 400px;
     width: 300px;
   }
 
   #img65 {
+    height: 400px;
     width: 620px;
   }
 
 
   #img66 {
+    height: 400px;
     width: 620px;
   }
 
   #img67 {
+    height: 400px;
     width: 620px;
   }
 
 
   #img68 {
+    height: 400px;
     width: 620px;
   }
 
 
   #img69 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
 
   #img70 {
+    height: 400px;
     width: 300px;
   }
 
 
   #img71 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
 
   #img72 {
+    height: 400px;
     width: 300px;
   }
 
   #img73 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img74 {
+    height: 400px;
    width: 300px;
   }
 
   #img75 {
+    height: 400px;
     width: 620px;
   }
 
   #img76 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img77 {
+    height: 400px;
     width: 300px;
   }
 
   #img78 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img79 {
+    height: 400px;
     width: 300px;
   }
 
   #img80 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img81 {
+    height: 400px;
     width: 300px;
   }
 
   #img82 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img83 {
+    height: 400px;
     width: 300px;
   }
 
   #img84 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img85 {
+    height: 400px;
     width: 300px;
   }
 
   #img86 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img87 {
+    height: 400px;
     width: 300px;
   }
 
   #img88 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img89 {
+    height: 400px;
     width: 300px;
   }
 
   #img90 {
+    height: 400px;
     width: 300px;
     margin-right: 20px;
   }
 
   #img91 {
+    height: 400px;
     width: 300px;
   }
 
   #img92 {
+    height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img93 {
+  height: 400px;
   width: 300px;
 }
 
 #img94 {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img95 {
+  height: 400px;
+  height: 400px;
   width: 300px;
 }
 
 #img96 {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img97 {
+  height: 400px;
   width: 300px;
 }
 
 #img98 {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img99 {
+  height: 400px;
   width: 300px;
 }
 
 #img100 {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img101 {
+  height: 400px;
   width: 350px;
 }
 
 
 #img0_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img1_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img2_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img3_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img4_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img5_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img6_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img7_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img8_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img9_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img10_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img11_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img12_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img13_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img14_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img15_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img16_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img17_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img18_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 
 #img19_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img20_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img21_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img22_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img23_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img24_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img25_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img26_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img27_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img28_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img29_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img30_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img31_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img32_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img33_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img34_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img35_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img36_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img37_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img38_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img39_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img40_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img41_personal {
+  height: 400px;
   width: 300px;
 }
 
 #img42_personal {
+  height: 400px;
   width: 300px;
   margin-right: 20px;
 }
 
 #img43_personal {
+  height: 400px;
   width: 300px;
 }
 
@@ -3600,7 +3887,7 @@ span a.number {
 
 @media screen and (min-width: 900px) and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 3.5%;
+    bottom: 9.5%;
     left: 2%;
   }
 
@@ -3626,6 +3913,803 @@ span a.number {
     height: 422px;
   }
 
+  .slider {
+    width: 820px;
+  }
+
+  #img0 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img1 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img2 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img3 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img4 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img5 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img6 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img7 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img8 {
+    height: 533px;
+    width: 356px;
+    margin-right: 64px;
+  }
+
+  #img9 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img10 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img11 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img12 {
+    height: 533px;
+    width: 356px;
+    margin-right: 64px;
+  }
+
+  #img13 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img14 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img15 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img16 {
+    height: 533px;
+    width: 356px;
+    margin-right: 64px;
+  }
+
+  #img17 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img18 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img19 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img20 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img21 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img22 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img23 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img24 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img25 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img28 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img29 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img30 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img31 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img32 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img33 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img34 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img35 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img36 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img37 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img38 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img39 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img40 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img41 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img42 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img43 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img44 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img45 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img46 {
+    height: 533px;
+    width: 820px;
+  }
+
+  #img47 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img48 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img49 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img50 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img51 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img52 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img53 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img54 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img55 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img56 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img57 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img58 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img59 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img60 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img61 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img62 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img63 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img64 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img65 {
+    height: 533px;
+    width: 820px;
+  }
+
+
+  #img66 {
+    height: 533px;
+    width: 820px;
+  }
+
+  #img67 {
+    height: 533px;
+    width: 820px;
+  }
+
+
+  #img68 {
+    height: 533px;
+    width: 820px;
+  }
+
+
+  #img69 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img70 {
+    height: 533px;
+    width: 400px;
+  }
+
+
+  #img71 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+
+  #img72 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img73 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img74 {
+    height: 533px;
+   width: 400px;
+  }
+
+  #img75 {
+    height: 533px;
+    width: 820px;
+  }
+
+  #img76 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img77 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img78 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img79 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img80 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img81 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img82 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img83 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img84 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img85 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img86 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img87 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img88 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img89 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img90 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img91 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img92 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img93 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img94 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img95 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img96 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img97 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img98 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img99 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img100 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img101 {
+    height: 533px;
+    width: 400px;
+  }
+
+#img0_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img1_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img2_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img3_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img4_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img5_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img6_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img7_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img8_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img9_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img10_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img11_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img12_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img13_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img14_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img15_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img16_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img17_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img18_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img19_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img20_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img21_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img22_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img23_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img24_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img25_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img26_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img27_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img28_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img29_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img30_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img31_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img32_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img33_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img34_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img35_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img36_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img37_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img38_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img39_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img40_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img41_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img42_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img43_personal {
+  height: 533px;
+  width: 400px;
+}
 
 
 
@@ -3633,7 +4717,7 @@ span a.number {
 
 @media screen and (min-width: 1000px) and (max-width: 1099px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 3.5%;
+    bottom: 9.5%;
     left: 6%;
   }
 
@@ -4462,7 +5546,7 @@ span a.number {
 
 @media screen and (min-width: 1100px) and (max-width: 1199px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
-    bottom: 4.5%;
+    bottom: 9.5%;
     left: 8%;
 }
 
@@ -4490,651 +5574,801 @@ span a.number {
     width: 750px;
     height: 422px;
   }
-  
+
   #img0 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img1 {
+    height: 533px;
     width: 400px;
   }
 
   #img2 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img3 {
+    height: 533px;
     width: 400px;
   }
 
   #img4 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img5 {
+    height: 533px;
     width: 400px;
   }
 
   #img6 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img7 {
+    height: 533px;
     width: 400px;
   }
 
   #img8 {
+    height: 533px;
     width: 356px;
     margin-right: 64px;
   }
 
   #img9 {
+    height: 533px;
     width: 400px;
   }
 
   #img10 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img11 {
+    height: 533px;
     width: 400px;
   }
 
   #img12 {
+    height: 533px;
     width: 356px;
     margin-right: 64px;
   }
 
   #img13 {
+    height: 533px;
     width: 400px;
   }
 
   #img14 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img15 {
+    height: 533px;
     width: 400px;
   }
 
   #img16 {
+    height: 533px;
     width: 356px;
     margin-right: 64px;
   }
 
   #img17 {
+    height: 533px;
     width: 400px;
   }
 
   #img18 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img19 {
+    height: 533px;
     width: 400px;
   }
 
   #img20 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img21 {
+    height: 533px;
     width: 400px;
   }
 
   #img22 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img23 {
+    height: 533px;
     width: 400px;
   }
 
   #img24 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img25 {
+    height: 533px;
     width: 400px;
   }
 
   #img28 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img29 {
+    height: 533px;
     width: 400px;
   }
 
   #img30 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img31 {
+    height: 533px;
     width: 400px;
   }
 
   #img32 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img33 {
+    height: 533px;
     width: 400px;
   }
 
   #img34 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img35 {
+    height: 533px;
     width: 400px;
   }
 
   #img36 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img37 {
+    height: 533px;
     width: 400px;
   }
 
   #img38 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img39 {
+    height: 533px;
     width: 400px;
   }
 
   #img40 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img41 {
+    height: 533px;
     width: 400px;
   }
 
   #img42 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img43 {
+    height: 533px;
     width: 400px;
   }
 
   #img44 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img45 {
+    height: 533px;
     width: 400px;
   }
 
   #img46 {
+    height: 533px;
     width: 820px;
   }
 
   #img47 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img48 {
+    height: 533px;
     width: 400px;
   }
 
   #img49 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img50 {
+    height: 533px;
     width: 400px;
   }
 
   #img51 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img52 {
+    height: 533px;
     width: 400px;
   }
 
   #img53 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img54 {
+    height: 533px;
     width: 400px;
   }
 
   #img55 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img56 {
+    height: 533px;
     width: 400px;
   }
 
   #img57 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img58 {
+    height: 533px;
     width: 400px;
   }
 
   #img59 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img60 {
+    height: 533px;
     width: 400px;
   }
 
   #img61 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img62 {
+    height: 533px;
     width: 400px;
   }
 
   #img63 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img64 {
+    height: 533px;
     width: 400px;
   }
 
   #img65 {
+    height: 533px;
     width: 820px;
   }
 
+
   #img66 {
+    height: 533px;
     width: 820px;
   }
 
   #img67 {
+    height: 533px;
     width: 820px;
   }
+
 
   #img68 {
+    height: 533px;
     width: 820px;
   }
 
+
   #img69 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img70 {
+    height: 533px;
     width: 400px;
   }
 
+
   #img71 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
+
   #img72 {
+    height: 533px;
     width: 400px;
   }
 
   #img73 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img74 {
+    height: 533px;
    width: 400px;
   }
 
   #img75 {
+    height: 533px;
     width: 820px;
   }
 
   #img76 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img77 {
+    height: 533px;
     width: 400px;
   }
 
   #img78 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img79 {
+    height: 533px;
     width: 400px;
   }
 
   #img80 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img81 {
+    height: 533px;
     width: 400px;
   }
 
   #img82 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img83 {
+    height: 533px;
     width: 400px;
   }
 
   #img84 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img85 {
+    height: 533px;
     width: 400px;
   }
 
   #img86 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img87 {
+    height: 533px;
     width: 400px;
   }
 
   #img88 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img89 {
+    height: 533px;
     width: 400px;
   }
 
   #img90 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img91 {
+    height: 533px;
     width: 400px;
   }
 
   #img92 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img93 {
+    height: 533px;
     width: 400px;
   }
 
   #img94 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img95 {
+    height: 533px;
     width: 400px;
   }
 
   #img96 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img97 {
+    height: 533px;
     width: 400px;
   }
 
   #img98 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img99 {
+    height: 533px;
     width: 400px;
   }
 
   #img100 {
+    height: 533px;
     width: 400px;
     margin-right: 20px;
   }
 
   #img101 {
+    height: 533px;
     width: 400px;
   }
 
-  #img0_personal {
+#img0_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img1_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img2_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img3_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img4_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img5_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img6_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img7_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img8_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img9_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img10_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img11_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img12_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img13_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img14_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img15_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img16_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img17_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img18_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img19_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img20_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img21_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img22_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img23_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img24_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img25_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img26_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img27_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img28_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img29_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img30_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img31_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img32_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img33_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img34_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img35_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img36_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img37_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img38_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img39_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img40_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img41_personal {
+  height: 533px;
   width: 400px;
 }
 
 #img42_personal {
+  height: 533px;
   width: 400px;
   margin-right: 20px;
 }
 
 #img43_personal {
+  height: 533px;
   width: 400px;
 }
+
 }
 
 @media screen and (min-width: 1200px) and (max-width: 1299px) and (-webkit-min-device-pixel-ratio: 1) { 
@@ -13364,4 +14598,2407 @@ height: 400px;
 
 }
 
+/* ------------- VARIOUS HEIGHTS -------------- */
+@media screen and (min-height: 400px) and (max-height: 514px) and (-webkit-min-device-pixel-ratio: 1) {
+.slider {
+    width: 420px;
+  }
+  
+  #img0 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
 
+  #img1 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img2 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img3 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img4 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img5 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img6 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img7 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img8 {
+    height: 267px;
+    width: 200px;
+    margin-right: 47.5px;
+  }
+
+  #img9 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img10 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img11 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img12 {
+    height: 267px;
+    width: 200px;
+    margin-right: 47.5px;
+  }
+
+  #img13 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img14 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img15 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img16 {
+    height: 267px;
+    width: 200px;
+    margin-right: 47.5px;
+  }
+
+  #img17 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img18 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img19 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img20 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img21 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img22 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img23 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img24 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img25 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img28 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img29 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img30 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img31 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img32 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img33 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img34 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img35 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img36 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img37 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img38 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img39 {
+    height: 267px;
+   width: 200px;
+  }
+
+  #img40 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img41 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img42 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img43 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img44 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img45 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img46 {
+    height: 267px;
+    width: 420px;
+  }
+
+  #img47 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img48 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img49 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img50 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img51 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img52 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img53 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img54 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img55 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img56 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img57 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img58 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img59 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img60 {
+    height: 267px;
+   width: 200px;
+  }
+
+  #img61 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img62 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img63 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img64 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img65 {
+    height: 267px;
+    width: 420px;
+  }
+
+  #img66 {
+    height: 267px;
+    width: 420px;
+  }
+
+  #img67 {
+    height: 267px;
+    width: 420px;
+  }
+
+  #img68 {
+    height: 267px;
+    width: 420px;
+  }
+
+  #img69 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img70 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img71 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img72 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img73 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img74 {
+    height: 267px;
+   width: 200px;
+  }
+
+  #img75 {
+    height: 267px;
+    width: 420px;
+  }
+
+  #img76 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img77 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img78 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img79 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img80 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img81 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img82 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img83 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img84 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img85 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img86 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img87 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img88 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img89 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img90 {
+    height: 267px;
+    width: 200px;
+    margin-right: 20px;
+  }
+
+  #img91 {
+    height: 267px;
+    width: 200px;
+  }
+
+  #img92 {
+    height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img93 {
+  height: 267px;
+  width: 200px;
+}
+
+#img94 {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img95 {
+  height: 267px;
+  width: 200px;
+}
+
+#img96 {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img97 {
+  height: 267px;
+  width: 200px;
+}
+
+#img98 {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img99 {
+  height: 267px;
+  width: 200px;
+}
+
+#img100 {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img101 {
+  height: 267px;
+  width: 200px;
+}
+
+#img0_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img1_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img2_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img3_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img4_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img5_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img6_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img7_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img8_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img9_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img10_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img11_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img12_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img13_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img14_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img15_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img16_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img17_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img18_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img19_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img20_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img21_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img22_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img23_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img24_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img25_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img26_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img27_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img28_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img29_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img30_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img31_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img32_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img33_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img34_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img35_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img36_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img37_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img38_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img39_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img40_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img41_personal {
+  height: 267px;
+  width: 200px;
+}
+
+#img42_personal {
+  height: 267px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+#img43_personal {
+  height: 267px;
+  width: 200px;
+}
+
+}
+
+@media screen and (min-height: 515px) and (max-height: 644px) and (-webkit-min-device-pixel-ratio: 1) {
+   .slider {
+    width: 620px;
+  }
+  
+  #img0 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img1 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img2 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img3 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img4 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img5 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img6 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img7 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img8 {
+    height: 400px;
+    width: 266.5px;
+    margin-right: 53.5px;
+  }
+
+  #img9 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img10 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img11 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img12 {
+    height: 400px;
+    width: 266.5px;
+    margin-right: 53.5px;
+  }
+
+  #img13 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img14 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img15 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img16 {
+    height: 400px;
+     width: 266.5px;
+    margin-right: 53.5px;
+  }
+
+  #img17 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img18 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+
+  #img19 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img20 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img21 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img22 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img23 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img24 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img25 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img28 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img29 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img30 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img31 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img32 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img33 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img34 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img35 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img36 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img37 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img38 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img39 {
+    height: 400px;
+   width: 300px;
+  }
+
+  #img40 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img41 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img42 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img43 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img44 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img45 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img46 {
+    height: 400px;
+    width: 620px;
+  }
+
+  #img47 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img48 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img49 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+
+  #img50 {
+    height: 400px;
+    width: 300px;
+  }
+
+
+  #img51 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img52 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img53 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img54 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img55 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img56 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img57 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img58 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img59 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img60 {
+    height: 400px;
+   width: 300px;
+  }
+
+  #img61 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img62 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img63 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img64 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img65 {
+    height: 400px;
+    width: 620px;
+  }
+
+
+  #img66 {
+    height: 400px;
+    width: 620px;
+  }
+
+  #img67 {
+    height: 400px;
+    width: 620px;
+  }
+
+
+  #img68 {
+    height: 400px;
+    width: 620px;
+  }
+
+
+  #img69 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+
+  #img70 {
+    height: 400px;
+    width: 300px;
+  }
+
+
+  #img71 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+
+  #img72 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img73 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img74 {
+    height: 400px;
+   width: 300px;
+  }
+
+  #img75 {
+    height: 400px;
+    width: 620px;
+  }
+
+  #img76 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img77 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img78 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img79 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img80 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img81 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img82 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img83 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img84 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img85 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img86 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img87 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img88 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img89 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img90 {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+
+  #img91 {
+    height: 400px;
+    width: 300px;
+  }
+
+  #img92 {
+    height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img93 {
+  height: 400px;
+  width: 300px;
+}
+
+#img94 {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img95 {
+  height: 400px;
+  height: 400px;
+  width: 300px;
+}
+
+#img96 {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img97 {
+  height: 400px;
+  width: 300px;
+}
+
+#img98 {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img99 {
+  height: 400px;
+  width: 300px;
+}
+
+#img100 {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img101 {
+  height: 400px;
+  width: 350px;
+}
+
+
+#img0_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img1_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img2_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img3_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img4_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img5_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img6_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img7_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img8_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img9_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img10_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img11_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img12_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img13_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img14_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img15_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img16_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img17_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img18_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+
+#img19_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img20_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img21_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img22_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img23_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img24_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img25_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img26_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img27_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img28_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img29_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img30_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img31_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img32_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img33_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img34_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img35_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img36_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img37_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img38_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img39_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img40_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img41_personal {
+  height: 400px;
+  width: 300px;
+}
+
+#img42_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+#img43_personal {
+  height: 400px;
+  width: 300px;
+}
+
+}
+
+@media screen and (min-height: 645px) and (max-height: 722px) and (-webkit-min-device-pixel-ratio: 1) {
+.slider {
+  width: 820px;
+}
+#img0 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img1 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img2 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img3 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img4 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img5 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img6 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img7 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img8 {
+    height: 533px;
+    width: 356px;
+    margin-right: 64px;
+  }
+
+  #img9 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img10 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img11 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img12 {
+    height: 533px;
+    width: 356px;
+    margin-right: 64px;
+  }
+
+  #img13 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img14 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img15 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img16 {
+    height: 533px;
+    width: 356px;
+    margin-right: 64px;
+  }
+
+  #img17 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img18 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img19 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img20 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img21 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img22 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img23 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img24 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img25 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img28 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img29 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img30 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img31 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img32 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img33 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img34 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img35 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img36 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img37 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img38 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img39 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img40 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img41 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img42 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img43 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img44 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img45 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img46 {
+    height: 533px;
+    width: 820px;
+  }
+
+  #img47 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img48 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img49 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img50 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img51 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img52 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img53 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img54 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img55 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img56 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img57 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img58 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img59 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img60 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img61 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img62 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img63 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img64 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img65 {
+    height: 533px;
+    width: 820px;
+  }
+
+
+  #img66 {
+    height: 533px;
+    width: 820px;
+  }
+
+  #img67 {
+    height: 533px;
+    width: 820px;
+  }
+
+
+  #img68 {
+    height: 533px;
+    width: 820px;
+  }
+
+
+  #img69 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img70 {
+    height: 533px;
+    width: 400px;
+  }
+
+
+  #img71 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+
+  #img72 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img73 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img74 {
+    height: 533px;
+   width: 400px;
+  }
+
+  #img75 {
+    height: 533px;
+    width: 820px;
+  }
+
+  #img76 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img77 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img78 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img79 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img80 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img81 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img82 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img83 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img84 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img85 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img86 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img87 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img88 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img89 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img90 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img91 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img92 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img93 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img94 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img95 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img96 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img97 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img98 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img99 {
+    height: 533px;
+    width: 400px;
+  }
+
+  #img100 {
+    height: 533px;
+    width: 400px;
+    margin-right: 20px;
+  }
+
+  #img101 {
+    height: 533px;
+    width: 400px;
+  }
+
+#img0_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img1_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img2_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img3_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img4_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img5_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img6_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img7_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img8_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img9_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img10_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img11_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img12_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img13_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img14_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img15_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img16_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img17_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img18_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img19_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img20_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img21_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img22_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img23_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img24_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img25_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img26_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img27_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img28_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img29_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img30_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img31_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img32_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img33_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img34_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img35_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img36_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img37_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img38_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img39_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img40_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img41_personal {
+  height: 533px;
+  width: 400px;
+}
+
+#img42_personal {
+  height: 533px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+#img43_personal {
+  height: 533px;
+  width: 400px;
+}
+
+}
