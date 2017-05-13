@@ -3,7 +3,7 @@
     src: local('Futura Medium') 
         local('Futura-Medium')
         local('Futura_Medium') 
-        url('../fonts/Futura_Medium.otf')
+        url('../fonts/Futura_Medium.otf');
         format('opentype');
 }
 
