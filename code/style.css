@@ -1090,6 +1090,8 @@ outline: none !important;
   display: none;
 }
 
+_::-webkit-:host:not(:root:root), .slick-track { left: -1px; }
+
 .slick-slide {
    transition: opacity .5ms ease;
 }
