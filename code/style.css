@@ -3210,7 +3210,7 @@ span a.number {
 
 @media screen and (min-width: 800px) and (max-width: 899px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 7.5%;
+    bottom: 12.5%;
     left: 1%;
 }
 
@@ -3897,7 +3897,7 @@ _::-webkit-:host:not(:root:root), .align-bottom { bottom: 16.5%; }
 
 @media screen and (min-width: 900px) and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 10.5%;
+    bottom: 12.5%;
     left: 2%;
   }
 
@@ -4729,7 +4729,7 @@ span a.number {
 
 @media screen and (min-width: 1000px) and (max-width: 1099px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 10.5%;
+    bottom: 12.5%;
     left: 6%;
   }
 
@@ -5560,11 +5560,11 @@ span a.number {
 
 @media screen and (min-width: 1100px) and (max-width: 1199px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
-    bottom: 10.5%;
+    bottom: 12.5%;
     left: 8%;
 }
 
-_::-webkit-:host:not(:root:root), .align-bottom { bottom: 16.5%; } 
+_::-webkit-:host:not(:root:root), .align-bottom { bottom: 6.5%; left: 10%; } 
 
   .nav-top ul {
     padding-left: 52%;
