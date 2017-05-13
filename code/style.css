@@ -6387,6 +6387,7 @@ span a.number {
 @media screen and (min-width: 1200px) and (max-width: 1299px) and (-webkit-min-device-pixel-ratio: 1) { 
 .align-bottom {
     left: 8%;
+    bottom: 8%;
   }
 
 /*_::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; } */
@@ -15413,6 +15414,11 @@ height: 400px;
 }
 
 @media screen and (min-height: 515px) and (max-height: 644px) and (-webkit-min-device-pixel-ratio: 1) {
+   .align-bottom {
+    bottom: 16%;
+}
+
+
    .slider {
     width: 620px;
   }
@@ -16221,6 +16227,12 @@ height: 400px;
 }
 
 @media screen and (min-height: 645px) and (max-height: 722px) and (-webkit-min-device-pixel-ratio: 1) {
+.align-bottom {
+    bottom: 9%;
+    left: 11%;
+}
+
+
 .slider {
   width: 820px;
 }
