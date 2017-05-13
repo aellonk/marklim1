@@ -2,9 +2,14 @@
     font-family: 'Futura';
     src: local('Futura Medium'), 
         local('Futura-Medium'),
-        local('Futura_Medium'), 
-        url('../fonts/Futura_Medium.otf');
+        local('Futura_Medium'),
+        url('../fonts/Futura_Medium.otf')
         format('opentype');
+    src: local('Futura Medium'), 
+        local('Futura-Medium'),
+        local('Futura_Medium'),
+        url('../fonts/Futura_ICG.ttf')
+        format('truetype');
 }
 
 html, body {
