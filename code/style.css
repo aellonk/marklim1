@@ -9830,7 +9830,7 @@ span a.number {
 }
 
 
-@media screen and (min-device-width: 1900px) and (max-device-width: 2099px) and (-webkit-min-device-pixel-ratio: 1) { 
+@media screen and (min-width: 1900px) and (max-width: 2099px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
     bottom: 13.5%;
     left: 7%;
@@ -10647,7 +10647,7 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
 }
 
 
-@media screen and (min-device-width: 2100px) and (max-device-width: 2199px) and (-webkit-min-device-pixel-ratio: 1) {
+@media screen and (min-width: 2100px) and (max-width: 2199px) and (-webkit-min-device-pixel-ratio: 1) {
   .align-bottom {
     bottom: 13.5%;
     left: 10%;
