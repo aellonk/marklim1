@@ -2372,6 +2372,8 @@ span a.number {
     left: 1%;
   }
 
+  _::-webkit-:host:not(:root:root), .align-bottom { bottom: 33%; }
+
   .nav-top ul {
     padding-left: 52%;
   } 
@@ -3206,6 +3208,9 @@ span a.number {
     bottom: 7.5%;
     left: 1%;
 }
+
+_::-webkit-:host:not(:root:root), .align-bottom { bottom: 16.5%; }
+
   .nav-top ul {
     padding-left: 52%;
   } 
@@ -3890,6 +3895,8 @@ span a.number {
     bottom: 9.5%;
     left: 2%;
   }
+
+  _::-webkit-:host:not(:root:root), .align-bottom { bottom: 16.5%; }
 
   .nav-top ul {
     padding-left: 52%;
@@ -4721,6 +4728,8 @@ span a.number {
     left: 6%;
   }
 
+_::-webkit-:host:not(:root:root), .align-bottom { bottom: 16.5%; }
+
   .nav-top ul {
     padding-left: 52%;
   } 
@@ -5550,6 +5559,8 @@ span a.number {
     left: 8%;
 }
 
+_::-webkit-:host:not(:root:root), .align-bottom { bottom: 16.5%; } 
+
   .nav-top ul {
     padding-left: 52%;
   } 
@@ -6376,7 +6387,7 @@ span a.number {
     left: 8%;
   }
 
-_::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; } 
+/*_::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; } */
 
 }
 
