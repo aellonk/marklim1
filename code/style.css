@@ -24,7 +24,7 @@ html, body {
     left: 12%;
 }
 
-_::-webkit-:host:not(:root:root), .align-bottom { bottom: 10%; } 
+_::-webkit-:host:not(:root:root), .align-bottom { bottom: 16%; } 
 
 .logo {
   position: fixed;
@@ -6398,11 +6398,11 @@ span a.number {
 
 @media screen and (min-width: 1400px) and (max-width: 1499px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
-    bottom: 8%;
+    bottom: 10%;
     left: 14%;
   }
-_::-webkit-:host:not(:root:root), .align-bottom { bottom: 10%; }
 
+_::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; } 
 
 }
 
