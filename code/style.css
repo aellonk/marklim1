@@ -71,6 +71,7 @@ a {
 
 .main {
   padding-left: 7%;
+  overflow: hidden;
 }
 
 .info {
@@ -102,7 +103,7 @@ outline: none !important;
 
 
 #img0 {
-  background-image: url("../assets/images/editorial/newordered_001.jpg");
+  background-image: url("../images/editorial/newordered_001.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -114,7 +115,7 @@ outline: none !important;
 
 
 #img1 {
-  background-image: url("../assets/images/editorial/newordered_002.jpg");
+  background-image: url("../images/editorial/newordered_002.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -123,7 +124,7 @@ outline: none !important;
 }
 
 #img2 {
-  background-image: url("../assets/images/editorial/newordered_003.jpg");
+  background-image: url("../images/editorial/newordered_003.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -134,7 +135,7 @@ outline: none !important;
 
 
 #img3 {
-  background-image: url("../assets/images/editorial/newordered_004.jpg");
+  background-image: url("../images/editorial/newordered_004.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -144,7 +145,7 @@ outline: none !important;
 
 
 #img4 {
-  background-image: url("../assets/images/editorial/newordered_005.jpg");
+  background-image: url("../images/editorial/newordered_005.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -154,7 +155,7 @@ outline: none !important;
 }
 
 #img5 {
-  background-image: url("../assets/images/editorial/newordered_006.jpg");
+  background-image: url("../images/editorial/newordered_006.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -163,7 +164,7 @@ outline: none !important;
 }
 
 #img6 {
-  background-image: url("../assets/images/editorial/newordered_007.jpg");
+  background-image: url("../images/editorial/newordered_007.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -173,7 +174,7 @@ outline: none !important;
 }
 
 #img7 {
-  background-image: url("../assets/images/editorial/newordered_008.jpg");
+  background-image: url("../images/editorial/newordered_008.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -182,7 +183,7 @@ outline: none !important;
 }
 
 #img8 {
-  background-image: url("../assets/images/editorial/newordered_009.jpg");
+  background-image: url("../images/editorial/newordered_009.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -192,7 +193,7 @@ outline: none !important;
 }
 
 #img9 {
-  background-image: url("../assets/images/editorial/newordered_010.jpg");
+  background-image: url("../images/editorial/newordered_010.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -201,7 +202,7 @@ outline: none !important;
 }
 
 #img10 {
-  background-image: url("../assets/images/editorial/newordered_011.jpg");
+  background-image: url("../images/editorial/newordered_011.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -211,7 +212,7 @@ outline: none !important;
 }
 
 #img11 {
-  background-image: url("../assets/images/editorial/newordered_012.jpg");
+  background-image: url("../images/editorial/newordered_012.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -220,7 +221,7 @@ outline: none !important;
 }
 
 #img12 {
-  background-image: url("../assets/images/editorial/newordered_013.jpg");
+  background-image: url("../images/editorial/newordered_013.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -230,7 +231,7 @@ outline: none !important;
 }
 
 #img13 {
-  background-image: url("../assets/images/editorial/newordered_014.jpg");
+  background-image: url("../images/editorial/newordered_014.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -239,7 +240,7 @@ outline: none !important;
 }
 
 #img14 {
-  background-image: url("../assets/images/editorial/newordered_015.jpg");
+  background-image: url("../images/editorial/newordered_015.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -249,7 +250,7 @@ outline: none !important;
 }
 
 #img15 {
-  background-image: url("../assets/images/editorial/newordered_016.jpg");
+  background-image: url("../images/editorial/newordered_016.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -258,7 +259,7 @@ outline: none !important;
 }
 
 #img16 {
-  background-image: url("../assets/images/editorial/newordered_017.jpg");
+  background-image: url("../images/editorial/newordered_017.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -268,7 +269,7 @@ outline: none !important;
 }
 
 #img17 {
-  background-image: url("../assets/images/editorial/newordered_018.jpg");
+  background-image: url("../images/editorial/newordered_018.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -277,7 +278,7 @@ outline: none !important;
 }
 
 #img18 {
-  background-image: url("../assets/images/editorial/newordered_019.jpg");
+  background-image: url("../images/editorial/newordered_019.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -288,7 +289,7 @@ outline: none !important;
 
 
 #img19 {
-  background-image: url("../assets/images/editorial/newordered_020.jpg");
+  background-image: url("../images/editorial/newordered_020.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -297,7 +298,7 @@ outline: none !important;
 }
 
 #img20 {
-  background-image: url("../assets/images/editorial/newordered_021.jpg");
+  background-image: url("../images/editorial/newordered_021.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -307,7 +308,7 @@ outline: none !important;
 }
 
 #img21 {
-  background-image: url("../assets/images/editorial/newordered_022.jpg");
+  background-image: url("../images/editorial/newordered_022.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -317,7 +318,7 @@ outline: none !important;
 }
 
 #img22 {
-  background-image: url("../assets/images/editorial/newordered_025.jpg");
+  background-image: url("../images/editorial/newordered_025.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -327,7 +328,7 @@ outline: none !important;
 }
 
 #img23 {
-  background-image: url("../assets/images/editorial/newordered_026.jpg");
+  background-image: url("../images/editorial/newordered_026.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -337,7 +338,7 @@ outline: none !important;
 }
 
 #img24 {
-  background-image: url("../assets/images/editorial/newordered_023.jpg");
+  background-image: url("../images/editorial/newordered_023.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -347,7 +348,7 @@ outline: none !important;
 }
 
 #img25 {
-  background-image: url("../assets/images/editorial/newordered_024.jpg");
+  background-image: url("../images/editorial/newordered_024.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -357,7 +358,7 @@ outline: none !important;
 }
 
 #img28 {
-  background-image: url("../assets/images/editorial/newordered_029.jpg");
+  background-image: url("../images/editorial/newordered_029.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -367,7 +368,7 @@ outline: none !important;
 }
 
 #img29 {
-  background-image: url("../assets/images/editorial/newordered_030.jpg");
+  background-image: url("../images/editorial/newordered_030.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -377,7 +378,7 @@ outline: none !important;
 }
 
 #img30 {
-  background-image: url("../assets/images/editorial/newordered_031.jpg");
+  background-image: url("../images/editorial/newordered_031.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -387,7 +388,7 @@ outline: none !important;
 }
 
 #img31 {
-  background-image: url("../assets/images/editorial/newordered_032.jpg");
+  background-image: url("../images/editorial/newordered_032.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -397,7 +398,7 @@ outline: none !important;
 }
 
 #img32 {
-  background-image: url("../assets/images/editorial/newordered_033.jpg");
+  background-image: url("../images/editorial/newordered_033.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -407,7 +408,7 @@ outline: none !important;
 }
 
 #img33 {
-  background-image: url("../assets/images/editorial/newordered_034.jpg");
+  background-image: url("../images/editorial/newordered_034.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -417,7 +418,7 @@ outline: none !important;
 }
 
 #img34 {
-  background-image: url("../assets/images/editorial/newordered_035.jpg");
+  background-image: url("../images/editorial/newordered_035.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -427,7 +428,7 @@ outline: none !important;
 }
 
 #img35 {
-  background-image: url("../assets/images/editorial/newordered_036.jpg");
+  background-image: url("../images/editorial/newordered_036.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -437,7 +438,7 @@ outline: none !important;
 }
 
 #img36 {
-  background-image: url("../assets/images/editorial/newordered_037.jpg");
+  background-image: url("../images/editorial/newordered_037.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -447,7 +448,7 @@ outline: none !important;
 }
 
 #img37 {
-  background-image: url("../assets/images/editorial/newordered_038.jpg");
+  background-image: url("../images/editorial/newordered_038.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -457,7 +458,7 @@ outline: none !important;
 }
 
 #img38 {
-  background-image: url("../assets/images/editorial/newordered_039.jpg");
+  background-image: url("../images/editorial/newordered_039.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -467,7 +468,7 @@ outline: none !important;
 }
 
 #img39 {
-  background-image: url("../assets/images/editorial/newordered_040.jpg");
+  background-image: url("../images/editorial/newordered_040.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -476,7 +477,7 @@ outline: none !important;
 }
 
 #img40 {
-  background-image: url("../assets/images/editorial/newordered_041.jpg");
+  background-image: url("../images/editorial/newordered_041.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -486,7 +487,7 @@ outline: none !important;
 }
 
 #img41 {
-  background-image: url("../assets/images/editorial/newordered_042.jpg");
+  background-image: url("../images/editorial/newordered_042.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -496,7 +497,7 @@ outline: none !important;
 }
 
 #img42 {
-  background-image: url("../assets/images/editorial/newordered_043.jpg");
+  background-image: url("../images/editorial/newordered_043.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -506,7 +507,7 @@ outline: none !important;
 }
 
 #img43 {
-  background-image: url("../assets/images/editorial/newordered_044.jpg");
+  background-image: url("../images/editorial/newordered_044.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -516,7 +517,7 @@ outline: none !important;
 }
 
 #img44 {
-  background-image: url("../assets/images/editorial/newordered_045.jpg");
+  background-image: url("../images/editorial/newordered_045.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -526,7 +527,7 @@ outline: none !important;
 }
 
 #img45 {
-  background-image: url("../assets/images/editorial/newordered_046.jpg");
+  background-image: url("../images/editorial/newordered_046.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -535,7 +536,7 @@ outline: none !important;
 }
 
 #img46 {
-  background-image: url("../assets/images/editorial/newordered_047.jpg");
+  background-image: url("../images/editorial/newordered_047.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -545,7 +546,7 @@ outline: none !important;
 
 
 #img47 {
-  background-image: url("../assets/images/editorial/newordered_048.jpg");
+  background-image: url("../images/editorial/newordered_048.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -555,7 +556,7 @@ outline: none !important;
 }
 
 #img48 {
-  background-image: url("../assets/images/editorial/newordered_049.jpg");
+  background-image: url("../images/editorial/newordered_049.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -564,7 +565,7 @@ outline: none !important;
 }
 
 #img49 {
-  background-image: url("../assets/images/editorial/newordered_050.jpg");
+  background-image: url("../images/editorial/newordered_050.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -574,7 +575,7 @@ outline: none !important;
 }
 
 #img50 {
-  background-image: url("../assets/images/editorial/newordered_051.jpg");
+  background-image: url("../images/editorial/newordered_051.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -584,7 +585,7 @@ outline: none !important;
 }
 
 #img51 {
-  background-image: url("../assets/images/editorial/newordered_052.jpg");
+  background-image: url("../images/editorial/newordered_052.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -594,7 +595,7 @@ outline: none !important;
 }
 
 #img52 {
-  background-image: url("../assets/images/editorial/newordered_053.jpg");
+  background-image: url("../images/editorial/newordered_053.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -604,7 +605,7 @@ outline: none !important;
 }
 
 #img53 {
-  background-image: url("../assets/images/editorial/newordered_054.jpg");
+  background-image: url("../images/editorial/newordered_054.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -614,7 +615,7 @@ outline: none !important;
 }
 
 #img54 {
-  background-image: url("../assets/images/editorial/newordered_055.jpg");
+  background-image: url("../images/editorial/newordered_055.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -624,7 +625,7 @@ outline: none !important;
 }
 
 #img55 {
-  background-image: url("../assets/images/editorial/newordered_056.jpg");
+  background-image: url("../images/editorial/newordered_056.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -634,7 +635,7 @@ outline: none !important;
 }
 
 #img56 {
-  background-image: url("../assets/images/editorial/newordered_057.jpg");
+  background-image: url("../images/editorial/newordered_057.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -644,7 +645,7 @@ outline: none !important;
 }
 
 #img57 {
-  background-image: url("../assets/images/editorial/newordered_058.jpg");
+  background-image: url("../images/editorial/newordered_058.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -654,7 +655,7 @@ outline: none !important;
 }
 
 #img58 {
-  background-image: url("../assets/images/editorial/newordered_059.jpg");
+  background-image: url("../images/editorial/newordered_059.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -664,7 +665,7 @@ outline: none !important;
 }
 
 #img59 {
-  background-image: url("../assets/images/editorial/newordered_060.jpg");
+  background-image: url("../images/editorial/newordered_060.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -674,7 +675,7 @@ outline: none !important;
 }
 
 #img60 {
-  background-image: url("../assets/images/editorial/newordered_061.jpg");
+  background-image: url("../images/editorial/newordered_061.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -684,7 +685,7 @@ outline: none !important;
 }
 
 #img61 {
-  background-image: url("../assets/images/editorial/newordered_062.jpg");
+  background-image: url("../images/editorial/newordered_062.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -694,7 +695,7 @@ outline: none !important;
 }
 
 #img62 {
-  background-image: url("../assets/images/editorial/newordered_063.jpg");
+  background-image: url("../images/editorial/newordered_063.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -704,7 +705,7 @@ outline: none !important;
 }
 
 #img63 {
-  background-image: url("../assets/images/editorial/newordered_064.jpg");
+  background-image: url("../images/editorial/newordered_064.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -714,7 +715,7 @@ outline: none !important;
 }
 
 #img64 {
-  background-image: url("../assets/images/editorial/newordered_065.jpg");
+  background-image: url("../images/editorial/newordered_065.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -724,7 +725,7 @@ outline: none !important;
 }
 
 #img65 {
-  background-image: url("../assets/images/editorial/newordered_066.jpg");
+  background-image: url("../images/editorial/newordered_066.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -734,7 +735,7 @@ outline: none !important;
 }
 
 #img66 {
-  background-image: url("../assets/images/editorial/newordered_067.jpg");
+  background-image: url("../images/editorial/newordered_067.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -743,7 +744,7 @@ outline: none !important;
 }
 
 #img67 {
-  background-image: url("../assets/images/editorial/newordered_068.jpg");
+  background-image: url("../images/editorial/newordered_068.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -752,7 +753,7 @@ outline: none !important;
 }
 
 #img68 {
-  background-image: url("../assets/images/editorial/newordered_069.jpg");
+  background-image: url("../images/editorial/newordered_069.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -761,7 +762,7 @@ outline: none !important;
 }
 
 #img69 {
-  background-image: url("../assets/images/editorial/newordered_070.jpg");
+  background-image: url("../images/editorial/newordered_070.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -772,7 +773,7 @@ outline: none !important;
 
 
 #img70 {
-  background-image: url("../assets/images/editorial/newordered_071.jpg");
+  background-image: url("../images/editorial/newordered_071.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -783,7 +784,7 @@ outline: none !important;
 
 
 #img71 {
-  background-image: url("../assets/images/editorial/newordered_072.jpg");
+  background-image: url("../images/editorial/newordered_072.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -794,7 +795,7 @@ outline: none !important;
 
 
 #img72 {
-  background-image: url("../assets/images/editorial/newordered_073.jpg");
+  background-image: url("../images/editorial/newordered_073.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -804,7 +805,7 @@ outline: none !important;
 }
 
 #img73 {
-  background-image: url("../assets/images/editorial/newordered_074.jpg");
+  background-image: url("../images/editorial/newordered_074.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -814,7 +815,7 @@ outline: none !important;
 }
 
 #img74 {
-  background-image: url("../assets/images/editorial/newordered_075.jpg");
+  background-image: url("../images/editorial/newordered_075.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -824,7 +825,7 @@ outline: none !important;
 }
 
 #img75 {
-  background-image: url("../assets/images/editorial/newordered_076.jpg");
+  background-image: url("../images/editorial/newordered_076.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -833,7 +834,7 @@ outline: none !important;
 }
 
 #img76 {
-  background-image: url("../assets/images/editorial/newordered_077.jpg");
+  background-image: url("../images/editorial/newordered_077.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -843,7 +844,7 @@ outline: none !important;
 }
 
 #img77 {
-  background-image: url("../assets/images/editorial/newordered_078.jpg");
+  background-image: url("../images/editorial/newordered_078.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -853,7 +854,7 @@ outline: none !important;
 }
 
 #img78 {
-  background-image: url("../assets/images/editorial/newordered_079.jpg");
+  background-image: url("../images/editorial/newordered_079.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -863,7 +864,7 @@ outline: none !important;
 }
 
 #img79 {
-  background-image: url("../assets/images/editorial/newordered_080.jpg");
+  background-image: url("../images/editorial/newordered_080.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -873,7 +874,7 @@ outline: none !important;
 }
 
 #img80 {
-  background-image: url("../assets/images/editorial/newordered_081.jpg");
+  background-image: url("../images/editorial/newordered_081.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -883,7 +884,7 @@ outline: none !important;
 }
 
 #img81 {
-  background-image: url("../assets/images/editorial/newordered_082.jpg");
+  background-image: url("../images/editorial/newordered_082.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -893,7 +894,7 @@ outline: none !important;
 }
 
 #img82 {
-  background-image: url("../assets/images/editorial/newordered_083.jpg");
+  background-image: url("../images/editorial/newordered_083.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -903,7 +904,7 @@ outline: none !important;
 }
 
 #img83 {
-  background-image: url("../assets/images/editorial/newordered_084.jpg");
+  background-image: url("../images/editorial/newordered_084.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -913,7 +914,7 @@ outline: none !important;
 }
 
 #img84 {
-  background-image: url("../assets/images/editorial/newordered_085.jpg");
+  background-image: url("../images/editorial/newordered_085.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -923,7 +924,7 @@ outline: none !important;
 }
 
 #img85 {
-  background-image: url("../assets/images/editorial/newordered_086.jpg");
+  background-image: url("../images/editorial/newordered_086.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -933,7 +934,7 @@ outline: none !important;
 }
 
 #img86 {
-  background-image: url("../assets/images/editorial/newordered_087.jpg");
+  background-image: url("../images/editorial/newordered_087.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -943,7 +944,7 @@ outline: none !important;
 }
 
 #img87 {
-  background-image: url("../assets/images/editorial/newordered_088.jpg");
+  background-image: url("../images/editorial/newordered_088.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -953,7 +954,7 @@ outline: none !important;
 }
 
 #img88 {
-  background-image: url("../assets/images/editorial/newordered_089.jpg");
+  background-image: url("../images/editorial/newordered_089.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -963,7 +964,7 @@ outline: none !important;
 }
 
 #img89 {
-  background-image: url("../assets/images/editorial/newordered_091.jpg");
+  background-image: url("../images/editorial/newordered_091.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -973,7 +974,7 @@ outline: none !important;
 }
 
 #img90 {
-  background-image: url("../assets/images/editorial/newordered_091.jpg");
+  background-image: url("../images/editorial/newordered_091.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -983,7 +984,7 @@ outline: none !important;
 }
 
 #img91 {
-  background-image: url("../assets/images/editorial/newordered_092.jpg");
+  background-image: url("../images/editorial/newordered_092.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -993,7 +994,7 @@ outline: none !important;
 }
 
 #img92 {
-  background-image: url("../assets/images/editorial/newordered_093.jpg");
+  background-image: url("../images/editorial/newordered_093.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1003,7 +1004,7 @@ outline: none !important;
 }
 
 #img93 {
-  background-image: url("../assets/images/editorial/newordered_094.jpg");
+  background-image: url("../images/editorial/newordered_094.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1012,7 +1013,7 @@ outline: none !important;
 }
 
 #img94 {
-  background-image: url("../assets/images/editorial/newordered_095.jpg");
+  background-image: url("../images/editorial/newordered_095.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1022,7 +1023,7 @@ outline: none !important;
 }
 
 #img95 {
-  background-image: url("../assets/images/editorial/newordered_096.jpg");
+  background-image: url("../images/editorial/newordered_096.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1031,7 +1032,7 @@ outline: none !important;
 }
 
 #img96 {
-  background-image: url("../assets/images/editorial/newordered_097.jpg");
+  background-image: url("../images/editorial/newordered_097.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1041,7 +1042,7 @@ outline: none !important;
 }
 
 #img97 {
-  background-image: url("../assets/images/editorial/newordered_098.jpg");
+  background-image: url("../images/editorial/newordered_098.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1050,7 +1051,7 @@ outline: none !important;
 }
 
 #img98 {
-  background-image: url("../assets/images/editorial/newordered_099.jpg");
+  background-image: url("../images/editorial/newordered_099.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1060,7 +1061,7 @@ outline: none !important;
 }
 
 #img99 {
-  background-image: url("../assets/images/editorial/newordered_100.jpg");
+  background-image: url("../images/editorial/newordered_100.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1069,7 +1070,7 @@ outline: none !important;
 }
 
 #img100 {
-  background-image: url("../assets/images/editorial/newordered_101.jpg");
+  background-image: url("../images/editorial/newordered_101.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1079,7 +1080,7 @@ outline: none !important;
 }
 
 #img101 {
-  background-image: url("../assets/images/editorial/newordered_102.jpg");
+  background-image: url("../images/editorial/newordered_102.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1120,7 +1121,7 @@ iframe {
 }
 
 #img0_personal {
-  background-image: url("../assets/images/personal/personalorder_001.jpg");
+  background-image: url("../images/personal/personalorder_001.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1130,7 +1131,7 @@ iframe {
 }
 
 #img1_personal {
-  background-image: url("../assets/images/personal/personalorder_002.jpg");
+  background-image: url("../images/personal/personalorder_002.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1139,7 +1140,7 @@ iframe {
 }
 
 #img2_personal {
-  background-image: url("../assets/images/personal/personalorder_003.jpg");
+  background-image: url("../images/personal/personalorder_003.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1150,7 +1151,7 @@ iframe {
 
 
 #img3_personal {
-  background-image: url("../assets/images/personal/personalorder_004.jpg");
+  background-image: url("../images/personal/personalorder_004.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1160,7 +1161,7 @@ iframe {
 
 
 #img4_personal {
-  background-image: url("../assets/images/personal/personalorder_005.jpg");
+  background-image: url("../images/personal/personalorder_005.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1170,7 +1171,7 @@ iframe {
 }
 
 #img5_personal {
-  background-image: url("../assets/images/personal/personalorder_006.jpg");
+  background-image: url("../images/personal/personalorder_006.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1179,7 +1180,7 @@ iframe {
 }
 
 #img6_personal {
-  background-image: url("../assets/images/personal/personalorder_007.jpg");
+  background-image: url("../images/personal/personalorder_007.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1189,7 +1190,7 @@ iframe {
 }
 
 #img7_personal {
-  background-image: url("../assets/images/personal/personalorder_008.jpg");
+  background-image: url("../images/personal/personalorder_008.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1198,7 +1199,7 @@ iframe {
 }
 
 #img8_personal {
-  background-image: url("../assets/images/personal/personalorder_009.jpg");
+  background-image: url("../images/personal/personalorder_009.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1208,7 +1209,7 @@ iframe {
 }
 
 #img9_personal {
-  background-image: url("../assets/images/personal/personalorder_010.jpg");
+  background-image: url("../images/personal/personalorder_010.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1217,7 +1218,7 @@ iframe {
 }
 
 #img10_personal {
-  background-image: url("../assets/images/personal/personalorder_011.jpg");
+  background-image: url("../images/personal/personalorder_011.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1227,7 +1228,7 @@ iframe {
 }
 
 #img11_personal {
-  background-image: url("../assets/images/personal/personalorder_012.jpg");
+  background-image: url("../images/personal/personalorder_012.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1236,7 +1237,7 @@ iframe {
 }
 
 #img12_personal {
-  background-image: url("../assets/images/personal/personalorder_013.jpg");
+  background-image: url("../images/personal/personalorder_013.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1246,7 +1247,7 @@ iframe {
 }
 
 #img13_personal {
-  background-image: url("../assets/images/personal/personalorder_014.jpg");
+  background-image: url("../images/personal/personalorder_014.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1255,7 +1256,7 @@ iframe {
 }
 
 #img14_personal {
-  background-image: url("../assets/images/personal/personalorder_015.jpg");
+  background-image: url("../images/personal/personalorder_015.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1265,7 +1266,7 @@ iframe {
 }
 
 #img15_personal {
-  background-image: url("../assets/images/personal/personalorder_016.jpg");
+  background-image: url("../images/personal/personalorder_016.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1274,7 +1275,7 @@ iframe {
 }
 
 #img16_personal {
-  background-image: url("../assets/images/personal/personalorder_017.jpg");
+  background-image: url("../images/personal/personalorder_017.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1284,7 +1285,7 @@ iframe {
 }
 
 #img17_personal {
-  background-image: url("../assets/images/personal/personalorder_018.jpg");
+  background-image: url("../images/personal/personalorder_018.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1293,7 +1294,7 @@ iframe {
 }
 
 #img18_personal {
-  background-image: url("../assets/images/personal/personalorder_019.jpg");
+  background-image: url("../images/personal/personalorder_019.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1304,7 +1305,7 @@ iframe {
 
 
 #img19_personal {
-  background-image: url("../assets/images/personal/personalorder_020.jpg");
+  background-image: url("../images/personal/personalorder_020.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1313,7 +1314,7 @@ iframe {
 }
 
 #img20_personal {
-  background-image: url("../assets/images/personal/personalorder_021.jpg");
+  background-image: url("../images/personal/personalorder_021.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1323,7 +1324,7 @@ iframe {
 }
 
 #img21_personal {
-  background-image: url("../assets/images/personal/personalorder_022.jpg");
+  background-image: url("../images/personal/personalorder_022.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1332,7 +1333,7 @@ iframe {
 }
 
 #img22_personal {
-  background-image: url("../assets/images/personal/personalorder_023.jpg");
+  background-image: url("../images/personal/personalorder_023.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1342,7 +1343,7 @@ iframe {
 }
 
 #img23_personal {
-  background-image: url("../assets/images/personal/personalorder_024.jpg");
+  background-image: url("../images/personal/personalorder_024.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1351,7 +1352,7 @@ iframe {
 }
 
 #img24_personal {
-  background-image: url("../assets/images/personal/personalorder_025.jpg");
+  background-image: url("../images/personal/personalorder_025.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1361,7 +1362,7 @@ iframe {
 }
 
 #img25_personal {
-  background-image: url("../assets/images/personal/personalorder_026.jpg");
+  background-image: url("../images/personal/personalorder_026.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1370,7 +1371,7 @@ iframe {
 }
 
 #img26_personal {
-  background-image: url("../assets/images/personal/personalorder_027.jpg");
+  background-image: url("../images/personal/personalorder_027.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1380,7 +1381,7 @@ iframe {
 }
 
 #img27_personal {
-  background-image: url("../assets/images/personal/personalorder_028.jpg");
+  background-image: url("../images/personal/personalorder_028.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1389,7 +1390,7 @@ iframe {
 }
 
 #img28_personal {
-  background-image: url("../assets/images/personal/personalorder_029.jpg");
+  background-image: url("../images/personal/personalorder_029.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1399,7 +1400,7 @@ iframe {
 }
 
 #img29_personal {
-  background-image: url("../assets/images/personal/personalorder_030.jpg");
+  background-image: url("../images/personal/personalorder_030.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1408,7 +1409,7 @@ iframe {
 }
 
 #img30_personal {
-  background-image: url("../assets/images/personal/personalorder_031.jpg");
+  background-image: url("../images/personal/personalorder_031.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1418,7 +1419,7 @@ iframe {
 }
 
 #img31_personal {
-  background-image: url("../assets/images/personal/personalorder_032.jpg");
+  background-image: url("../images/personal/personalorder_032.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1427,7 +1428,7 @@ iframe {
 }
 
 #img32_personal {
-  background-image: url("../assets/images/personal/personalorder_033.jpg");
+  background-image: url("../images/personal/personalorder_033.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1437,7 +1438,7 @@ iframe {
 }
 
 #img33_personal {
-  background-image: url("../assets/images/personal/personalorder_034.jpg");
+  background-image: url("../images/personal/personalorder_034.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1446,7 +1447,7 @@ iframe {
 }
 
 #img34_personal {
-  background-image: url("../assets/images/personal/personalorder_035.jpg");
+  background-image: url("../images/personal/personalorder_035.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1456,7 +1457,7 @@ iframe {
 }
 
 #img35_personal {
-  background-image: url("../assets/images/personal/personalorder_036.jpg");
+  background-image: url("../images/personal/personalorder_036.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1465,7 +1466,7 @@ iframe {
 }
 
 #img36_personal {
-  background-image: url("../assets/images/personal/personalorder_037.jpg");
+  background-image: url("../images/personal/personalorder_037.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1475,7 +1476,7 @@ iframe {
 }
 
 #img37_personal {
-  background-image: url("../assets/images/personal/personalorder_038.jpg");
+  background-image: url("../images/personal/personalorder_038.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1484,7 +1485,7 @@ iframe {
 }
 
 #img38_personal {
-  background-image: url("../assets/images/personal/personalorder_039.jpg");
+  background-image: url("../images/personal/personalorder_039.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1494,7 +1495,7 @@ iframe {
 }
 
 #img39_personal {
-  background-image: url("../assets/images/personal/personalorder_040.jpg");
+  background-image: url("../images/personal/personalorder_040.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1503,7 +1504,7 @@ iframe {
 }
 
 #img40_personal {
-  background-image: url("../assets/images/personal/personalorder_041.jpg");
+  background-image: url("../images/personal/personalorder_041.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1513,7 +1514,7 @@ iframe {
 }
 
 #img41_personal {
-  background-image: url("../assets/images/personal/personalorder_042.jpg");
+  background-image: url("../images/personal/personalorder_042.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1522,7 +1523,7 @@ iframe {
 }
 
 #img42_personal {
-  background-image: url("../assets/images/personal/personalorder_043.jpg");
+  background-image: url("../images/personal/personalorder_043.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -1532,7 +1533,7 @@ iframe {
 }
 
 #img43_personal {
-  background-image: url("../assets/images/personal/personalorder_044.jpg");
+  background-image: url("../images/personal/personalorder_044.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
