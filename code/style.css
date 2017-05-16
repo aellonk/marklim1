@@ -14,8 +14,9 @@
 
 html, body {
   font-family: 'Futura', sans-serif;
-  height: 100vh;
-  overflow: hidden;
+  max-height: 100vh;
+  overflow-y: hidden;
+  overflow-x: hidden;
   position: relative;
 }
 
