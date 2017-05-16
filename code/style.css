@@ -16,7 +16,7 @@ html, body {
   font-family: 'Futura', sans-serif;
   height: 100vh;
   overflow: hidden;
-  position: static;
+  position: relative;
 }
 
 .align-bottom {
