@@ -66,7 +66,6 @@ a {
   display: inline-block;
   color: black;
   z-index: 10;
-  height: 60px;
 }
 
 .main {
@@ -13233,6 +13232,10 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
     display: initial;
 }
 
+.nav-top ul li a {
+  height: 60px;
+}
+
 span {
   padding-left: 3%;
 }
@@ -14107,6 +14110,11 @@ iframe {
 .nav-top ul li {
     display: initial;
 }
+
+.nav-top ul li a {
+  height: 60px;
+}
+
 
 span {
   padding-left: 3%;
