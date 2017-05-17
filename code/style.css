@@ -70,8 +70,6 @@ a {
 
 .main {
   padding-left: 7%;
-  overflow-y: hidden;
-  overflow-x: hidden;
 }
 
 .info {
@@ -13154,6 +13152,10 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
 {
     left: -1px;
 }
+.main {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
 }
 
 /* iPad Portrait */
@@ -13208,6 +13210,11 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
     left: -1px;
 }
 
+.main {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
 }
 
 /* iphone 5 Portrait */
@@ -13230,10 +13237,6 @@ _::-webkit-:host:not(:root:root), .align-bottom { left: 22% }
 
 .nav-top ul li {
     display: initial;
-}
-
-.nav-top ul li a {
-  height: 60px;
 }
 
 span {
@@ -14086,7 +14089,10 @@ iframe {
 {
     left: -1px;
 }
-
+.main {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
 }
 
 /* iPhone 6 Portrait */
@@ -14109,10 +14115,6 @@ iframe {
 
 .nav-top ul li {
     display: initial;
-}
-
-.nav-top ul li a {
-  height: 60px;
 }
 
 
