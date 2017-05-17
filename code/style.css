@@ -72,7 +72,6 @@ a {
   padding-left: 7%;
   overflow-y: hidden;
   overflow-x: hidden;
-  position: relative;
 }
 
 .info {
@@ -13258,6 +13257,7 @@ span a.number {
 }
 
 iframe {
+  padding-top: 50px;
   width: 900px;
 }
 
@@ -14132,6 +14132,8 @@ span a.number {
 }
 
 iframe {
+
+    padding-top: 50px;
   width: 900px;
 }
 
