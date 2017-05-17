@@ -15,10 +15,8 @@
 html, body {
   font-family: 'Futura', sans-serif;
   max-height: 100vh;
-  overflow-y: hidden;
-  overflow-x: hidden;
-  position: relative;
 }
+
 
 .align-bottom {
     bottom: 0%;
@@ -72,7 +70,9 @@ a {
 
 .main {
   padding-left: 7%;
-  overflow: hidden;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  position: relative;
 }
 
 .info {
